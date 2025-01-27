@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -23,6 +23,11 @@
 		D9CC921F2AF9906E00EE1661 /* Favourites.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9CC921E2AF9906E00EE1661 /* Favourites.swift */; };
 		D9CC92212AF9908100EE1661 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9CC92202AF9908100EE1661 /* Home.swift */; };
 		D9CC92232AF9909300EE1661 /* Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9CC92222AF9909300EE1661 /* Search.swift */; };
+		D9F604112D466E9C003E6047 /* Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F604102D466E9C003E6047 /* Map.swift */; };
+		D9F604132D46704E003E6047 /* FederalStates.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F604122D46704E003E6047 /* FederalStates.swift */; };
+		D9F6041B2D46E5BC003E6047 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F6041A2D46E5BC003E6047 /* Settings.swift */; };
+		D9F604212D46E76A003E6047 /* Bundle+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F604202D46E76A003E6047 /* Bundle+Extension.swift */; };
+		D9F604232D46E9FD003E6047 /* federal_states.geojson in Resources */ = {isa = PBXBuildFile; fileRef = D9F604222D46E9FD003E6047 /* federal_states.geojson */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,7 +68,17 @@
 		D9CC921E2AF9906E00EE1661 /* Favourites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favourites.swift; sourceTree = "<group>"; };
 		D9CC92202AF9908100EE1661 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		D9CC92222AF9909300EE1661 /* Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Search.swift; sourceTree = "<group>"; };
+		D9F604102D466E9C003E6047 /* Map.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Map.swift; sourceTree = "<group>"; };
+		D9F604122D46704E003E6047 /* FederalStates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FederalStates.swift; sourceTree = "<group>"; };
+		D9F6041A2D46E5BC003E6047 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		D9F604202D46E76A003E6047 /* Bundle+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle+Extension.swift"; sourceTree = "<group>"; };
+		D9F604222D46E9FD003E6047 /* federal_states.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = federal_states.geojson; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		D9F604242D46EB16003E6047 /* de.lproj */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = de.lproj; sourceTree = "<group>"; };
+		D9F604252D46EB22003E6047 /* en.lproj */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = en.lproj; sourceTree = "<group>"; };
+/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		D9CC91E92AF98C1F00EE1661 /* Frameworks */ = {
@@ -118,6 +133,7 @@
 				D9CC91EF2AF98C1F00EE1661 /* gemeinde_kompass_360App.swift */,
 				D9CC91F12AF98C1F00EE1661 /* ContentView.swift */,
 				D9CC91F32AF98C1F00EE1661 /* Item.swift */,
+				D9F604222D46E9FD003E6047 /* federal_states.geojson */,
 				D9CC91F52AF98C2000EE1661 /* Assets.xcassets */,
 				D9CC91FA2AF98C2000EE1661 /* gemeinde_kompass_360.entitlements */,
 				D9CC91FB2AF98C2000EE1661 /* Info.plist */,
@@ -125,6 +141,9 @@
 				D9B65BB52B0233E100ECECD8 /* WebService.swift */,
 				D9C744422B27A3F2000DB4C1 /* extensions.swift */,
 				D9C744442B27A5A7000DB4C1 /* NearbyPlaces.swift */,
+				D9F604202D46E76A003E6047 /* Bundle+Extension.swift */,
+				D9F604252D46EB22003E6047 /* en.lproj */,
+				D9F604242D46EB16003E6047 /* de.lproj */,
 			);
 			path = "gemeinde-kompass-360";
 			sourceTree = "<group>";
@@ -157,10 +176,13 @@
 		D9CC921D2AF9903600EE1661 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				D9F604122D46704E003E6047 /* FederalStates.swift */,
+				D9F604102D466E9C003E6047 /* Map.swift */,
 				D9CC921E2AF9906E00EE1661 /* Favourites.swift */,
 				D9CC92202AF9908100EE1661 /* Home.swift */,
 				D9CC92222AF9909300EE1661 /* Search.swift */,
 				D9CC8F7E2B04F92C00232FDE /* Gemeinde.swift */,
+				D9F6041A2D46E5BC003E6047 /* Settings.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -179,6 +201,10 @@
 			buildRules = (
 			);
 			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				D9F604242D46EB16003E6047 /* de.lproj */,
+				D9F604252D46EB22003E6047 /* en.lproj */,
 			);
 			name = "gemeinde-kompass-360";
 			packageProductDependencies = (
@@ -231,6 +257,9 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
+				KnownAssetTags = (
+					German,
+				);
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
@@ -254,10 +283,11 @@
 			knownRegions = (
 				en,
 				Base,
+				de,
 			);
 			mainGroup = D9CC91E32AF98C1F00EE1661;
 			packageReferences = (
-				D98091852B29DF1F00FDD8DC /* XCRemoteSwiftPackageReference "Alamofire.git" */,
+				D98091852B29DF1F00FDD8DC /* XCRemoteSwiftPackageReference "Alamofire" */,
 			);
 			productRefGroup = D9CC91ED2AF98C1F00EE1661 /* Products */;
 			projectDirPath = "";
@@ -275,6 +305,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9F604232D46E9FD003E6047 /* federal_states.geojson in Resources */,
 				D9CC91F92AF98C2000EE1661 /* Preview Assets.xcassets in Resources */,
 				D9CC91F62AF98C2000EE1661 /* Assets.xcassets in Resources */,
 			);
@@ -302,12 +333,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9C744452B27A5A7000DB4C1 /* NearbyPlaces.swift in Sources */,
+				D9F604212D46E76A003E6047 /* Bundle+Extension.swift in Sources */,
 				D9CC91F22AF98C1F00EE1661 /* ContentView.swift in Sources */,
+				D9F6041B2D46E5BC003E6047 /* Settings.swift in Sources */,
 				D9CC91F42AF98C1F00EE1661 /* Item.swift in Sources */,
 				D9B65BB62B0233E100ECECD8 /* WebService.swift in Sources */,
 				D9CC92212AF9908100EE1661 /* Home.swift in Sources */,
+				D9F604132D46704E003E6047 /* FederalStates.swift in Sources */,
 				D9CC92232AF9909300EE1661 /* Search.swift in Sources */,
 				D9C744432B27A3F2000DB4C1 /* extensions.swift in Sources */,
+				D9F604112D466E9C003E6047 /* Map.swift in Sources */,
 				D9CC91F02AF98C1F00EE1661 /* gemeinde_kompass_360App.swift in Sources */,
 				D9CC921F2AF9906E00EE1661 /* Favourites.swift in Sources */,
 				D9CC8F7F2B04F92C00232FDE /* Gemeinde.swift in Sources */,
@@ -352,6 +387,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -415,6 +451,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -658,7 +695,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		D98091852B29DF1F00FDD8DC /* XCRemoteSwiftPackageReference "Alamofire.git" */ = {
+		D98091852B29DF1F00FDD8DC /* XCRemoteSwiftPackageReference "Alamofire" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
 			requirement = {
@@ -671,7 +708,7 @@
 /* Begin XCSwiftPackageProductDependency section */
 		D98091862B29DF1F00FDD8DC /* Alamofire */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = D98091852B29DF1F00FDD8DC /* XCRemoteSwiftPackageReference "Alamofire.git" */;
+			package = D98091852B29DF1F00FDD8DC /* XCRemoteSwiftPackageReference "Alamofire" */;
 			productName = Alamofire;
 		};
 /* End XCSwiftPackageProductDependency section */
