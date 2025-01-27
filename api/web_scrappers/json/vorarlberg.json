@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Alberschwende",
+    "population": 3247,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Altach",
+    "population": 6624,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Andelsbuch",
+    "population": 2565,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Au",
+    "population": 1736,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bartholomäberg",
+    "population": 2352,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bezau",
+    "population": 2003,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bildstein",
+    "population": 766,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bizau",
+    "population": 1107,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Blons",
+    "population": 349,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bludenz",
+    "population": 14539,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bludesch",
+    "population": 2386,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Brand",
+    "population": 719,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bregenz",
+    "population": 29806,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Buch",
+    "population": 596,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bürs",
+    "population": 3275,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bürserberg",
+    "population": 572,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Dalaas",
+    "population": 1597,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Damüls",
+    "population": 313,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Doren",
+    "population": 1029,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Dornbirn",
+    "population": 49278,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Düns",
+    "population": 411,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Dünserberg",
+    "population": 147,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Egg",
+    "population": 3547,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Eichenberg",
+    "population": 427,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Feldkirch",
+    "population": 33420,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Fontanella",
+    "population": 437,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Frastanz",
+    "population": 6434,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Fraxern",
+    "population": 701,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Fußach",
+    "population": 3871,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Gaißau",
+    "population": 1827,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Gemeinde Gaschurn-Partenen",
+    "population": 1464,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Göfis",
+    "population": 3312,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Götzis",
+    "population": 11473,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Hard",
+    "population": 13495,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Hittisau",
+    "population": 2032,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Höchst",
+    "population": 7995,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Hohenems",
+    "population": 16317,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Hohenweiler",
+    "population": 1271,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Hörbranz",
+    "population": 6346,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Innerbraz",
+    "population": 994,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Kennelbach",
+    "population": 1944,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Klaus",
+    "population": 3118,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Klösterle",
+    "population": 688,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Koblach",
+    "population": 4577,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Krumbach",
+    "population": 1042,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Langen bei Bregenz",
+    "population": 1405,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Langenegg",
+    "population": 1133,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Laterns",
+    "population": 662,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Lauterach",
+    "population": 10267,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Lech",
+    "population": 1568,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Lingenau",
+    "population": 1466,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Lochau",
+    "population": 5747,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Lorüns",
+    "population": 294,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Ludesch",
+    "population": 3437,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Lustenau",
+    "population": 22821,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Mäder",
+    "population": 4031,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Meiningen",
+    "population": 2245,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Mellau",
+    "population": 1301,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Mittelberg",
+    "population": 4962,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Möggers",
+    "population": 534,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Nenzing",
+    "population": 6239,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Nüziders",
+    "population": 4962,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Raggal",
+    "population": 868,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Rankweil",
+    "population": 11855,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Reuthe",
+    "population": 658,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Riefensberg",
+    "population": 1086,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Röns",
+    "population": 352,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Röthis",
+    "population": 1942,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Satteins",
+    "population": 2703,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schlins",
+    "population": 2404,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schnepfau",
+    "population": 449,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schnifis",
+    "population": 798,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schoppernau",
+    "population": 950,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schröcken",
+    "population": 224,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schruns",
+    "population": 3818,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schwarzach",
+    "population": 3949,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schwarzenberg",
+    "population": 1850,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Sibratsgfäll",
+    "population": 401,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Silbertal",
+    "population": 834,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Sonntag",
+    "population": 671,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Sankt Anton im Montafon",
+    "population": 715,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "St. Gallenkirch",
+    "population": 2246,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Sankt Gerold",
+    "population": 410,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Stallehr",
+    "population": 289,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Sulz",
+    "population": 2527,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Sulzberg",
+    "population": 1818,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Thüringen",
+    "population": 2222,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Thüringerberg",
+    "population": 714,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Tschagguns",
+    "population": 2195,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Übersaxen",
+    "population": 629,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Vandans",
+    "population": 2636,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Viktorsberg",
+    "population": 411,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Warth",
+    "population": 170,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Weiler",
+    "population": 2075,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Wolfurt",
+    "population": 8446,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Zwischenwasser",
+    "population": 3203,
+    "bezirk": "Vorarlberg"
+  }
+]

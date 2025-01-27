@@ -1,0 +1,10467 @@
+[
+  {
+    "name": "Andau",
+    "population": 2285,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Antau",
+    "population": 758,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Apetlon",
+    "population": 1760,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Bad Sauerbrunn",
+    "population": 2219,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Bad Tatzmannsdorf",
+    "population": 1554,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Badersdorf",
+    "population": 287,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Baumgarten",
+    "population": 894,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Bernstein",
+    "population": 2123,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Bildein",
+    "population": 343,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Bocksdorf",
+    "population": 813,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Breitenbrunn am Neusiedler See",
+    "population": 1938,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Bruckneudorf",
+    "population": 3026,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Burgauberg-Neudauberg",
+    "population": 1360,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Deutsch Jahrndorf",
+    "population": 611,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Deutsch Kaltenbrunn",
+    "population": 1721,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Deutsch Schützen-Eisenberg",
+    "population": 1126,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Deutschkreutz",
+    "population": 3088,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Donnerskirchen",
+    "population": 1810,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Draßburg",
+    "population": 1199,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Draßmarkt",
+    "population": 1388,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Eberau",
+    "population": 911,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Edelstal",
+    "population": 747,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Eisenstadt",
+    "population": 14476,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Eltendorf",
+    "population": 954,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Forchtenstein",
+    "population": 2796,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Frankenau-Unterpullendorf",
+    "population": 1109,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Frauenkirchen",
+    "population": 2862,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Gattendorf",
+    "population": 1332,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Gerersdorf-Sulz",
+    "population": 1014,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Gols",
+    "population": 3835,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Grafenschachen",
+    "population": 1225,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Großhöflein",
+    "population": 2048,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Großmürbisch",
+    "population": 242,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Großpetersdorf",
+    "population": 3531,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Großwarasdorf",
+    "population": 1381,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Güssing",
+    "population": 3655,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Güttenbach",
+    "population": 898,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Hackerberg",
+    "population": 357,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Halbturn",
+    "population": 1901,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Hannersdorf",
+    "population": 758,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Heiligenbrunn",
+    "population": 759,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Heiligenkreuz im Lafnitztal",
+    "population": 1231,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Heugraben",
+    "population": 216,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Hirm",
+    "population": 1009,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Horitschon",
+    "population": 1861,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Hornstein",
+    "population": 3012,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Illmitz",
+    "population": 2385,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Inzenhof",
+    "population": 334,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Jabing",
+    "population": 734,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Jennersdorf",
+    "population": 4096,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Jois",
+    "population": 1612,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kaisersdorf",
+    "population": 620,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kemeten",
+    "population": 1493,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kittsee",
+    "population": 3162,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kleinmürbisch",
+    "population": 226,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Klingenbach",
+    "population": 1172,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kobersdorf",
+    "population": 1883,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kohfidisch",
+    "population": 1462,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Königsdorf",
+    "population": 720,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Krensdorf",
+    "population": 642,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kukmirn",
+    "population": 2012,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Lackenbach",
+    "population": 1167,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Lackendorf",
+    "population": 604,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Leithaprodersdorf",
+    "population": 1193,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Litzelsdorf",
+    "population": 1181,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Lockenhaus",
+    "population": 2066,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Loipersbach im Burgenland",
+    "population": 1229,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Loipersdorf-Kitzladen",
+    "population": 1319,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Loretto",
+    "population": 475,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Lutzmannsburg",
+    "population": 861,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mannersdorf an der Rabnitz",
+    "population": 1795,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mariasdorf",
+    "population": 1145,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Markt Allhau",
+    "population": 1845,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Markt Neuhodis",
+    "population": 658,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Markt Sankt Martin",
+    "population": 1198,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Marz",
+    "population": 2073,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mattersburg",
+    "population": 7349,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Minihof-Liebau",
+    "population": 1054,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mischendorf",
+    "population": 1589,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mogersdorf",
+    "population": 1164,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mönchhof",
+    "population": 2236,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mörbisch am See",
+    "population": 2261,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Moschendorf",
+    "population": 400,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mühlgraben",
+    "population": 396,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Müllendorf",
+    "population": 1397,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neckenmarkt",
+    "population": 1680,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neuberg im Burgenland",
+    "population": 978,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neudörfl",
+    "population": 4564,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neufeld an der Leitha",
+    "population": 3418,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neuhaus am Klausenbach",
+    "population": 921,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neusiedl am See",
+    "population": 8235,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neustift an der Lafnitz",
+    "population": 793,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neustift bei Güssing",
+    "population": 474,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neutal",
+    "population": 1094,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Nickelsdorf",
+    "population": 1772,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Nikitsch",
+    "population": 1405,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oberdorf im Burgenland",
+    "population": 996,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oberloisdorf",
+    "population": 806,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oberpullendorf",
+    "population": 3188,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oberschützen",
+    "population": 2429,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oberwart",
+    "population": 7572,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oggau am Neusiedler See",
+    "population": 1739,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Olbendorf",
+    "population": 1449,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Ollersdorf im Burgenland",
+    "population": 933,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oslip",
+    "population": 1243,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Pama",
+    "population": 1204,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Pamhagen",
+    "population": 1623,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Parndorf",
+    "population": 4689,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Pilgersdorf",
+    "population": 1656,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Pinkafeld",
+    "population": 5779,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Piringsdorf",
+    "population": 847,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Podersdorf am See",
+    "population": 2135,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Pöttelsdorf",
+    "population": 735,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Pöttsching",
+    "population": 2950,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Potzneusiedl",
+    "population": 602,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Purbach am Neusiedlersee",
+    "population": 2901,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Raiding",
+    "population": 865,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rauchwart",
+    "population": 446,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rechnitz",
+    "population": 3054,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Riedlingsdorf",
+    "population": 1619,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Ritzing",
+    "population": 902,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rohr im Burgenland",
+    "population": 380,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rohrbach bei Mattersburg",
+    "population": 2707,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rotenturm an der Pinka",
+    "population": 1445,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rudersdorf",
+    "population": 2176,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rust",
+    "population": 1921,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Sankt Andrä am Zicksee",
+    "population": 1371,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Sankt Margarethen im Burgenland",
+    "population": 2636,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Sankt Martin an der Raab",
+    "population": 1959,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Sankt Michael im Burgenland",
+    "population": 963,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Schachendorf",
+    "population": 765,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Schandorf",
+    "population": 276,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Schattendorf",
+    "population": 2379,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Schützen am Gebirge",
+    "population": 1392,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Siegendorf",
+    "population": 2963,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Sieggraben",
+    "population": 1248,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Sigleß",
+    "population": 1183,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Stadtschlaining",
+    "population": 1980,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Stegersbach",
+    "population": 2658,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Steinberg-Dörfl",
+    "population": 1291,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Steinbrunn",
+    "population": 2614,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Stinatz",
+    "population": 1263,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Stoob",
+    "population": 1386,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Stotzing",
+    "population": 840,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Strem",
+    "population": 900,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Tadten",
+    "population": 1186,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Tobaj",
+    "population": 1372,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Trausdorf an der Wulka",
+    "population": 2064,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Tschanigraben",
+    "population": 62,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Unterfrauenhaid",
+    "population": 681,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Unterkohlstätten",
+    "population": 1029,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Unterrabnitz-Schwendgraben",
+    "population": 650,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Unterwart",
+    "population": 971,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wallern im Burgenland",
+    "population": 1702,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Weichselbaum",
+    "population": 720,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Weiden am See",
+    "population": 2426,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Weiden bei Rechnitz",
+    "population": 824,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Weingraben",
+    "population": 363,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Weppersdorf",
+    "population": 1826,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wiesen",
+    "population": 2691,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wiesfleck",
+    "population": 1158,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wimpassing an der Leitha",
+    "population": 1549,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Winden am See",
+    "population": 1315,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wolfau",
+    "population": 1436,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wörterberg",
+    "population": 488,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wulkaprodersdorf",
+    "population": 1944,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Zagersdorf",
+    "population": 1027,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Zemendorf-Stöttera",
+    "population": 1268,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Zillingtal",
+    "population": 933,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Zurndorf",
+    "population": 2247,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Adlwang",
+    "population": 1806,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Afiesl",
+    "population": 394,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ahorn",
+    "population": 505,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Aichkirchen",
+    "population": 582,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Aigen-Schlägl",
+    "population": 3212,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Aistersheim",
+    "population": 892,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Alberndorf in der Riedmark",
+    "population": 4083,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Alkoven",
+    "population": 5961,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Allerheiligen im Mühlkreis",
+    "population": 1261,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Allhaming",
+    "population": 1174,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Altenberg bei Linz",
+    "population": 4553,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Altenfelden",
+    "population": 2219,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Altheim",
+    "population": 4839,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Altmünster",
+    "population": 9793,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Altschwendt",
+    "population": 700,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ampflwang im Hausruckwald",
+    "population": 3376,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Andorf",
+    "population": 5174,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Andrichsfurt",
+    "population": 770,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ansfelden",
+    "population": 16194,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Antiesenhofen",
+    "population": 1091,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Arbing",
+    "population": 1446,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Arnreit",
+    "population": 1154,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Aschach an der Donau",
+    "population": 2201,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Aschach an der Steyr",
+    "population": 2266,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Aspach",
+    "population": 2596,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Asten",
+    "population": 6613,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Attersee am Attersee",
+    "population": 1585,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Attnang-Puchheim",
+    "population": 8944,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Atzbach",
+    "population": 1196,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Atzesberg",
+    "population": 446,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Auberg",
+    "population": 551,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Auerbach",
+    "population": 583,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Aurach am Hongar",
+    "population": 1715,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Aurolzmünster",
+    "population": 3000,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Bachmanning",
+    "population": 704,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Bad Goisern am Hallstättersee",
+    "population": 7450,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Bad Hall",
+    "population": 5296,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Bad Ischl",
+    "population": 14133,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Bad Kreuzen",
+    "population": 2266,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Bad Leonfelden",
+    "population": 4180,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Bad Schallerbach",
+    "population": 4169,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Bad Wimsbach-Neydharting",
+    "population": 2533,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Bad Zell",
+    "population": 2919,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Baumgartenberg",
+    "population": 1734,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Berg im Attergau",
+    "population": 1044,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Braunau am Inn",
+    "population": 17095,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Brunnenthal",
+    "population": 2032,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Buchkirchen",
+    "population": 4038,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Burgkirchen",
+    "population": 2661,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Desselbrunn",
+    "population": 1857,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Diersbach",
+    "population": 1583,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Dietach",
+    "population": 3212,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Dimbach",
+    "population": 1013,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Dorf an der Pram",
+    "population": 1039,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ebensee am Traunsee",
+    "population": 7717,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Eberschwang",
+    "population": 3351,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Eberstalzell",
+    "population": 2627,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Edlbach",
+    "population": 670,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Edt bei Lambach",
+    "population": 2197,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Eferding",
+    "population": 4100,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Eggelsberg",
+    "population": 2365,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Eggendorf im Traunkreis",
+    "population": 944,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Eggerding",
+    "population": 1320,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Eidenberg",
+    "population": 2105,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Eitzing",
+    "population": 805,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Engelhartszell an der Donau",
+    "population": 942,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Engerwitzdorf",
+    "population": 8790,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Enzenkirchen",
+    "population": 1772,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Eschenau im Hausruckkreis",
+    "population": 1063,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Esternberg",
+    "population": 2855,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Feldkirchen an der Donau",
+    "population": 5361,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Feldkirchen bei Mattighofen",
+    "population": 1978,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Fischlham",
+    "population": 1328,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Fornach",
+    "population": 976,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Fraham",
+    "population": 2395,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Frankenburg am Hausruck",
+    "population": 4842,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Frankenmarkt",
+    "population": 3636,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Franking",
+    "population": 953,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Freinberg",
+    "population": 1458,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Freistadt",
+    "population": 7909,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gaflenz",
+    "population": 1954,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gallneukirchen",
+    "population": 6492,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gallspach",
+    "population": 2772,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gampern",
+    "population": 2927,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Garsten",
+    "population": 6711,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gaspoltshofen",
+    "population": 3566,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Geboltskirchen",
+    "population": 1421,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Geiersberg",
+    "population": 519,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Geinberg",
+    "population": 1435,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Geretsberg",
+    "population": 1187,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gilgenberg am Weilhart",
+    "population": 1327,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gmunden",
+    "population": 13191,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Goldwörth",
+    "population": 840,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gosau",
+    "population": 1792,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gramastetten",
+    "population": 5102,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Grein",
+    "population": 2926,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Grieskirchen",
+    "population": 5002,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Großraming",
+    "population": 2702,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Grünau im Almtal",
+    "population": 2064,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Grünbach",
+    "population": 1946,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Grünburg",
+    "population": 3840,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gschwandt",
+    "population": 2750,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gunskirchen",
+    "population": 6037,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gurten",
+    "population": 1187,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Gutau",
+    "population": 2724,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Haag am Hausruck",
+    "population": 2176,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hagenberg im Mühlkreis",
+    "population": 2737,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Haibach im Mühlkreis",
+    "population": 904,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Haibach ob der Donau",
+    "population": 1308,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Haigermoos",
+    "population": 610,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hallstatt",
+    "population": 778,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Handenberg",
+    "population": 1290,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hargelsberg",
+    "population": 1371,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hartkirchen",
+    "population": 4099,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Haslach an der Mühl",
+    "population": 2536,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Heiligenberg",
+    "population": 691,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Helfenberg",
+    "population": 1005,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hellmonsödt",
+    "population": 2303,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Helpfau-Uttendorf",
+    "population": 3573,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Herzogsdorf",
+    "population": 2506,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hinterstoder",
+    "population": 910,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hinzenbach",
+    "population": 1999,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hirschbach im Mühlkreis",
+    "population": 1194,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hochburg-Ach",
+    "population": 3236,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hofkirchen an der Trattnach",
+    "population": 1667,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hofkirchen im Mühlkreis",
+    "population": 1520,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hofkirchen im Traunkreis",
+    "population": 1899,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hohenzell",
+    "population": 2246,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Höhnhart",
+    "population": 1379,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Holzhausen",
+    "population": 995,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hörbich",
+    "population": 420,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Hörsching",
+    "population": 6062,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Innerschwand am Mondsee",
+    "population": 1183,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Inzersdorf im Kremstal",
+    "population": 1880,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Jeging",
+    "population": 691,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Julbach",
+    "population": 1537,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kallham",
+    "population": 2498,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kaltenberg",
+    "population": 625,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Katsdorf",
+    "population": 3086,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kefermarkt",
+    "population": 2116,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kematen am Innbach",
+    "population": 1413,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kematen an der Krems",
+    "population": 2790,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kirchberg bei Mattighofen",
+    "population": 1175,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kirchberg ob der Donau",
+    "population": 1055,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kirchberg-Thening",
+    "population": 2364,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kirchdorf am Inn",
+    "population": 636,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kirchdorf an der Krems",
+    "population": 4502,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kirchham",
+    "population": 2139,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kirchheim im Innkreis",
+    "population": 716,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kirchschlag bei Linz",
+    "population": 2138,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Klaffer am Hochficht",
+    "population": 1311,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Klam",
+    "population": 918,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Klaus an der Pyhrnbahn",
+    "population": 1063,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kleinzell im Mühlkreis",
+    "population": 1546,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kollerschlag",
+    "population": 1520,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Königswiesen",
+    "population": 3113,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kopfing im Innkreis",
+    "population": 2008,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kremsmünster",
+    "population": 6585,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Krenglbach",
+    "population": 3158,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Kronstorf",
+    "population": 3389,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Laakirchen",
+    "population": 9861,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Lambach",
+    "population": 3435,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Lambrechten",
+    "population": 1300,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Langenstein",
+    "population": 2534,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Lasberg",
+    "population": 2748,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Laussa",
+    "population": 1227,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Lembach im Mühlkreis",
+    "population": 1530,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Lengau",
+    "population": 4738,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Lenzing",
+    "population": 5043,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Leonding",
+    "population": 28698,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Leopoldschlag",
+    "population": 1023,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Lichtenau im Mühlkreis",
+    "population": 498,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Lichtenberg",
+    "population": 2637,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Liebenau",
+    "population": 1597,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Linz",
+    "population": 204846,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Lochen am See",
+    "population": 2754,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Lohnsburg am Kobernaußerwald",
+    "population": 2234,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Losenstein",
+    "population": 1604,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Luftenberg an der Donau",
+    "population": 4057,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Manning",
+    "population": 795,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Marchtrenk",
+    "population": 13603,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Maria Neustift",
+    "population": 1592,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Maria Schmolln",
+    "population": 1414,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Mattighofen",
+    "population": 6524,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Mauerkirchen",
+    "population": 2566,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Mauthausen",
+    "population": 4936,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Mayrhof",
+    "population": 322,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Meggenhofen",
+    "population": 1514,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Mehrnbach",
+    "population": 2363,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Mettmach",
+    "population": 2355,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Michaelnbach",
+    "population": 1263,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Micheldorf in Oberösterreich",
+    "population": 5854,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Mining",
+    "population": 1195,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Mitterkirchen im Machland",
+    "population": 1718,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Molln",
+    "population": 3653,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Mondsee",
+    "population": 3734,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Moosbach",
+    "population": 1042,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Moosdorf",
+    "population": 1638,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Mörschwang",
+    "population": 328,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Mühlheim am Inn",
+    "population": 661,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Munderfing",
+    "population": 3063,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Münzbach",
+    "population": 1814,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Münzkirchen",
+    "population": 2572,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Naarn im Machlande",
+    "population": 3690,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Natternbach",
+    "population": 2305,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Nebelberg",
+    "population": 632,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Neufelden",
+    "population": 1276,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Neuhofen an der Krems",
+    "population": 6269,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Neuhofen im Innkreis",
+    "population": 2408,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Neukirchen am Walde",
+    "population": 1633,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Neukirchen an der Enknach",
+    "population": 2212,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Neukirchen an der Vöckla",
+    "population": 2559,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Neukirchen bei Lambach",
+    "population": 917,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Neumarkt im Hausruckkreis",
+    "population": 1465,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Neumarkt im Mühlkreis",
+    "population": 3163,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Neustift im Mühlkreis",
+    "population": 1461,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Niederkappel",
+    "population": 985,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Niederneukirchen",
+    "population": 2073,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Niederthalheim",
+    "population": 1125,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Niederwaldkirchen",
+    "population": 1816,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Nußbach",
+    "population": 2286,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Nußdorf am Attersee",
+    "population": 1128,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Oberhofen am Irrsee",
+    "population": 1646,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Oberkappel",
+    "population": 725,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Obernberg am Inn",
+    "population": 1633,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Oberndorf bei Schwanenstadt",
+    "population": 1416,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Oberneukirchen",
+    "population": 3202,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Oberschlierbach",
+    "population": 484,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Obertraun",
+    "population": 726,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Oberwang",
+    "population": 1708,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Oepping",
+    "population": 1510,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Offenhausen",
+    "population": 1638,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Oftering",
+    "population": 2076,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ohlsdorf",
+    "population": 5209,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ort im Innkreis",
+    "population": 1275,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ostermiething",
+    "population": 3296,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ottenschlag im Mühlkreis",
+    "population": 539,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ottensheim",
+    "population": 4721,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ottnang am Hausruck",
+    "population": 3990,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pabneukirchen",
+    "population": 1706,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Palting",
+    "population": 938,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pasching",
+    "population": 7552,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pattigham",
+    "population": 928,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Peilstein im Mühlviertel",
+    "population": 1541,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pennewang",
+    "population": 888,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Perg",
+    "population": 8388,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Perwang am Grabensee",
+    "population": 997,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Peterskirchen",
+    "population": 700,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pettenbach",
+    "population": 5272,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Peuerbach",
+    "population": 4483,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pfaffing",
+    "population": 1482,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pfaffstätt",
+    "population": 1101,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pfarrkirchen bei Bad Hall",
+    "population": 2244,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pfarrkirchen im Mühlkreis",
+    "population": 1474,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Piberbach",
+    "population": 1902,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pichl bei Wels",
+    "population": 2863,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pierbach",
+    "population": 1011,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pilsbach",
+    "population": 629,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pinsdorf",
+    "population": 3849,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pischelsdorf am Engelbach",
+    "population": 1672,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pitzenberg",
+    "population": 524,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pollham",
+    "population": 984,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Polling im Innkreis",
+    "population": 997,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pöndorf",
+    "population": 2386,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pötting",
+    "population": 541,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pram",
+    "population": 1708,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Prambachkirchen",
+    "population": 2919,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pramet",
+    "population": 1030,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pregarten",
+    "population": 5293,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Puchenau",
+    "population": 4445,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Puchkirchen am Trattberg",
+    "population": 1036,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pucking",
+    "population": 3904,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pühret",
+    "population": 613,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Pupping",
+    "population": 1824,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Putzleinsdorf",
+    "population": 1553,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Raab",
+    "population": 2270,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Rainbach im Innkreis",
+    "population": 1478,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Rainbach im Mühlkreis",
+    "population": 2959,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Rechberg",
+    "population": 996,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Redleiten",
+    "population": 537,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Redlham",
+    "population": 1515,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Regau",
+    "population": 6780,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Reichenau im Mühlkreis",
+    "population": 1329,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Reichenthal",
+    "population": 1513,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Reichersberg",
+    "population": 1511,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Reichraming",
+    "population": 1742,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ried im Innkreis",
+    "population": 11903,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ried im Traunkreis",
+    "population": 2739,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ried in der Riedmark",
+    "population": 4210,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Riedau",
+    "population": 2069,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Rohr im Kremstal",
+    "population": 1374,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Rohrbach-Berg",
+    "population": 5134,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Roitham am Traunfall",
+    "population": 2001,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Rosenau am Hengstpaß",
+    "population": 663,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Roßbach",
+    "population": 935,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Roßleithen",
+    "population": 1889,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Rottenbach",
+    "population": 1105,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Rüstorf",
+    "population": 2104,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Rutzenham",
+    "population": 298,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sandl",
+    "population": 1384,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sarleinsbach",
+    "population": 2284,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sattledt",
+    "population": 2668,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Saxen",
+    "population": 1820,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schalchen",
+    "population": 3877,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schardenberg",
+    "population": 2407,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schärding",
+    "population": 5253,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Scharnstein",
+    "population": 4819,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Scharten",
+    "population": 2252,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schenkenfelden",
+    "population": 1569,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schiedlberg",
+    "population": 1224,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schildorn",
+    "population": 1227,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schlatt",
+    "population": 1399,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schleißheim",
+    "population": 1389,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schlierbach",
+    "population": 2858,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schlüßlberg",
+    "population": 3091,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schönau im Mühlkreis",
+    "population": 1941,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schörfling am Attersee",
+    "population": 3438,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schwand im Innkreis",
+    "population": 972,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schwanenstadt",
+    "population": 4264,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schwarzenberg am Böhmerwald",
+    "population": 566,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Schwertberg",
+    "population": 5365,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Seewalchen am Attersee",
+    "population": 5491,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Senftenbach",
+    "population": 772,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sierning",
+    "population": 9371,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sigharting",
+    "population": 848,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sipbachzell",
+    "population": 1975,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sonnberg im Mühlkreis",
+    "population": 966,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Spital am Pyhrn",
+    "population": 2238,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Aegidi",
+    "population": 1556,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Agatha",
+    "population": 2116,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Florian",
+    "population": 6176,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Florian am Inn",
+    "population": 3150,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Georgen am Fillmannsbach",
+    "population": 404,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Georgen am Walde",
+    "population": 2006,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Georgen an der Gusen",
+    "population": 4119,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Georgen bei Grieskirchen",
+    "population": 1336,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Georgen bei Obernberg am Inn",
+    "population": 569,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "St Georgen im Attergau",
+    "population": 4375,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Gotthard im Mühlkreis",
+    "population": 1332,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Johann am Walde",
+    "population": 2051,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Johann am Wimberg",
+    "population": 1029,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Konrad",
+    "population": 1115,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Leonhard bei Freistadt",
+    "population": 1394,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Lorenz",
+    "population": 2493,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Marien",
+    "population": 4769,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "St. Marienkirchen am Hausruck",
+    "population": 888,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Marienkirchen an der Polsenz",
+    "population": 2337,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Marienkirchen bei Schärding",
+    "population": 1832,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Martin im Innkreis",
+    "population": 2055,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Martin im Mühlkreis",
+    "population": 3757,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Nikola an der Donau",
+    "population": 798,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Oswald bei Freistadt",
+    "population": 2901,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Oswald bei Haslach",
+    "population": 501,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Pankraz",
+    "population": 362,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Pantaleon",
+    "population": 3085,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Peter am Hart",
+    "population": 2447,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Peter am Wimberg",
+    "population": 1770,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "St. Radegund",
+    "population": 589,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Roman",
+    "population": 1711,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Stefan am Walde",
+    "population": 804,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Thomas",
+    "population": 545,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Thomas am Blasenstein",
+    "population": 927,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Ulrich bei Steyr",
+    "population": 2969,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Ulrich im Mühlkreis",
+    "population": 633,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Veit im Innkreis",
+    "population": 408,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Veit im Mühlkreis",
+    "population": 1206,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Sankt Willibald",
+    "population": 1100,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "St. Wolfgang im Salzkammergut",
+    "population": 2770,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Stadl-Paura",
+    "population": 5053,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Steegen",
+    "population": 1049,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Steinbach am Attersee",
+    "population": 866,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Steinbach am Ziehberg",
+    "population": 828,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Steinbach an der Steyr",
+    "population": 2009,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Steinerkirchen an der Traun",
+    "population": 2371,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Steinhaus",
+    "population": 2187,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Steyr",
+    "population": 38331,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Steyregg",
+    "population": 4889,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Straß im Attergau",
+    "population": 1471,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Stroheim",
+    "population": 1555,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Suben",
+    "population": 1508,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Taiskirchen im Innkreis",
+    "population": 2407,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Tarsdorf",
+    "population": 2068,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Taufkirchen an der Pram",
+    "population": 2925,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Taufkirchen an der Trattnach",
+    "population": 1970,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ternberg",
+    "population": 3367,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Thalheim bei Wels",
+    "population": 5482,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Tiefgraben",
+    "population": 3974,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Timelkam",
+    "population": 5708,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Tollet",
+    "population": 920,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Tragwein",
+    "population": 3082,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Traun",
+    "population": 24477,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Traunkirchen",
+    "population": 1624,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Treubach",
+    "population": 725,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Tumeltsham",
+    "population": 1590,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Überackern",
+    "population": 685,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ulrichsberg",
+    "population": 2843,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Ungenach",
+    "population": 1492,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Unterach am Attersee",
+    "population": 1448,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Unterweißenbach",
+    "population": 2192,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Unterweitersdorf",
+    "population": 2082,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Utzenaich",
+    "population": 1536,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Vichtenstein",
+    "population": 611,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Vöcklabruck",
+    "population": 12299,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Vöcklamarkt",
+    "population": 4924,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Vorchdorf",
+    "population": 7475,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Vorderstoder",
+    "population": 810,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Vorderweißenbach",
+    "population": 2653,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Waizenkirchen",
+    "population": 3729,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Waldburg",
+    "population": 1375,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Waldhausen im Strudengau",
+    "population": 2870,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Walding",
+    "population": 4095,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Waldkirchen am Wesen",
+    "population": 1171,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Waldneukirchen",
+    "population": 2242,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Waldzell",
+    "population": 2177,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Wallern an der Trattnach",
+    "population": 3039,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Wartberg an der Krems",
+    "population": 2993,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Wartberg ob der Aist",
+    "population": 4222,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Weibern",
+    "population": 1717,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Weilbach",
+    "population": 604,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Weißenkirchen im Attergau",
+    "population": 964,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Weißkirchen an der Traun",
+    "population": 3430,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Weitersfelden",
+    "population": 1042,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Wels",
+    "population": 61233,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Wendling",
+    "population": 838,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Weng im Innkreis",
+    "population": 1394,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Wernstein am Inn",
+    "population": 1566,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Weyer",
+    "population": 4258,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Weyregg am Attersee",
+    "population": 1588,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Wilhering",
+    "population": 5911,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Windhaag bei Freistadt",
+    "population": 1579,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Windhaag bei Perg",
+    "population": 1508,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Windischgarsten",
+    "population": 2392,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Wippenham",
+    "population": 578,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Wolfern",
+    "population": 3173,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Wolfsegg am Hausruck",
+    "population": 1982,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Zell am Moos",
+    "population": 1575,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Zell am Pettenfirst",
+    "population": 1236,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Zell an der Pram",
+    "population": 2021,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Zwettl an der Rodl",
+    "population": 1752,
+    "bezirk": "Oberösterreich"
+  },
+  {
+    "name": "Admont",
+    "population": 5010,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Aflenz",
+    "population": 2417,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Aich",
+    "population": 1294,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Aigen im Ennstal",
+    "population": 2722,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Albersdorf-Prebuch",
+    "population": 2037,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Allerheiligen bei Wildon",
+    "population": 1470,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Altaussee",
+    "population": 1878,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Altenmarkt bei Sankt Gallen",
+    "population": 822,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Anger",
+    "population": 4098,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Ardning",
+    "population": 1239,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Arnfels",
+    "population": 1013,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Bad Aussee",
+    "population": 4833,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Bad Blumau",
+    "population": 1641,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Bad Gleichenberg",
+    "population": 5314,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Bad Loipersdorf",
+    "population": 1876,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Bad Mitterndorf",
+    "population": 4962,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Bad Radkersburg",
+    "population": 3156,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Bad Schwanberg",
+    "population": 4566,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Bad Waltersdorf",
+    "population": 3790,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Bärnbach",
+    "population": 5642,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Birkfeld",
+    "population": 4992,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Breitenau am Hochlantsch",
+    "population": 1706,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Bruck an der Mur",
+    "population": 15885,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Buch-Sankt Magdalena",
+    "population": 2171,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Burgau",
+    "population": 1040,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Dechantskirchen",
+    "population": 2042,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Deutsch Goritz",
+    "population": 1816,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Deutschfeistritz",
+    "population": 4311,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Deutschlandsberg",
+    "population": 11604,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Dobl-Zwaring",
+    "population": 3537,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Ebersdorf",
+    "population": 1275,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Edelsbach bei Feldbach",
+    "population": 1342,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Edelschrott",
+    "population": 1735,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Eggersdorf bei Graz",
+    "population": 6620,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Ehrenhausen an der Weinstraße",
+    "population": 2558,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Eibiswald",
+    "population": 6485,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Eichkögl",
+    "population": 1310,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Eisenerz",
+    "population": 4048,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Empersdorf",
+    "population": 1376,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Fehring",
+    "population": 7284,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Feistritztal",
+    "population": 2417,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Feldbach",
+    "population": 13369,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Feldkirchen bei Graz",
+    "population": 6308,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Fernitz-Mellach",
+    "population": 4804,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Fischbach",
+    "population": 1528,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Fladnitz an der Teichalm",
+    "population": 1792,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Floing",
+    "population": 1195,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Fohnsdorf",
+    "population": 7693,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Frauental an der Laßnitz",
+    "population": 2894,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Friedberg",
+    "population": 2601,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Frohnleiten",
+    "population": 6655,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Fürstenfeld",
+    "population": 8549,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gaal",
+    "population": 1376,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gabersdorf",
+    "population": 1227,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gaishorn am See",
+    "population": 1333,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gamlitz",
+    "population": 3248,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gasen",
+    "population": 915,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Geistthal-Södingberg",
+    "population": 1532,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gersdorf an der Feistritz",
+    "population": 1699,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gleinstätten",
+    "population": 2792,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gleisdorf",
+    "population": 10763,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gnas",
+    "population": 6046,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gössendorf",
+    "population": 3981,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Grafendorf bei Hartberg",
+    "population": 3082,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gralla",
+    "population": 2390,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gratkorn",
+    "population": 7892,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gratwein-Straßengel",
+    "population": 13002,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Graz",
+    "population": 286292,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Greinbach",
+    "population": 1795,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gröbming",
+    "population": 3013,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Groß Sankt Florian",
+    "population": 4150,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Großklein",
+    "population": 2292,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Großsteinbach",
+    "population": 1248,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Großwilfersdorf",
+    "population": 2071,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Grundlsee",
+    "population": 1199,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Gutenberg-Stenzengreith",
+    "population": 1773,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Halbenrain",
+    "population": 1747,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Hart bei Graz",
+    "population": 4972,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Hartberg",
+    "population": 6650,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Hartberg Umgebung",
+    "population": 2248,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Hartl",
+    "population": 2130,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Haselsdorf-Tobelbad",
+    "population": 1426,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Haus im Ennstal",
+    "population": 2429,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Hausmannstätten",
+    "population": 3288,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Heiligenkreuz am Waasen",
+    "population": 2787,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Heimschuh",
+    "population": 1968,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Hengsberg",
+    "population": 1445,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Hirschegg-Pack",
+    "population": 1022,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Hitzendorf",
+    "population": 7134,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Hofstätten an der Raab",
+    "population": 2253,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Hohentauern",
+    "population": 408,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Ilz",
+    "population": 3736,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Ilztal",
+    "population": 2148,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Irdning-Donnersbachtal",
+    "population": 4135,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Jagerberg",
+    "population": 1653,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Judenburg",
+    "population": 9960,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kainach bei Voitsberg",
+    "population": 1628,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kainbach bei Graz",
+    "population": 2834,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kaindorf",
+    "population": 2935,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kalsdorf bei Graz",
+    "population": 6954,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kalwang",
+    "population": 988,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kammern im Liesingtal",
+    "population": 1600,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kapfenberg",
+    "population": 22798,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kapfenstein",
+    "population": 1557,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kindberg",
+    "population": 8047,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kirchbach-Zerlach",
+    "population": 3264,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kirchberg an der Raab",
+    "population": 4488,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kitzeck im Sausal",
+    "population": 1228,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Klöch",
+    "population": 1192,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Knittelfeld",
+    "population": 12626,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kobenz",
+    "population": 1864,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Köflach",
+    "population": 9888,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Krakau",
+    "population": 1419,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kraubath an der Mur",
+    "population": 1283,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Krieglach",
+    "population": 5305,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Krottendorf-Gaisfeld",
+    "population": 2463,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Kumberg",
+    "population": 3843,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Lafnitz",
+    "population": 1451,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Landl",
+    "population": 2720,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Lang",
+    "population": 1325,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Langenwang",
+    "population": 3868,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Lannach",
+    "population": 3459,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Lassing",
+    "population": 1719,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Laßnitzhöhe",
+    "population": 2817,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Lebring-Sankt Margarethen",
+    "population": 2168,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Leibnitz",
+    "population": 12201,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Leoben",
+    "population": 24645,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Leutschach an der Weinstraße",
+    "population": 3723,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Lieboch",
+    "population": 5096,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Liezen",
+    "population": 8191,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Ligist",
+    "population": 3275,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Lobmingtal",
+    "population": 1852,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Ludersdorf-Wilfersdorf",
+    "population": 2397,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Maria Lankowitz",
+    "population": 2858,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Mariazell",
+    "population": 3813,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Markt Hartmannsdorf",
+    "population": 2950,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Mautern in Steiermark",
+    "population": 1766,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Mettersdorf am Saßbach",
+    "population": 1282,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Michaelerberg-Pruggern",
+    "population": 1188,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Miesenbach bei Birkfeld",
+    "population": 696,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Mitterberg-Sankt Martin",
+    "population": 1933,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Mitterdorf an der Raab",
+    "population": 2056,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Mooskirchen",
+    "population": 2207,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Mortantsch",
+    "population": 2182,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Mühlen",
+    "population": 882,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Murau",
+    "population": 3629,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Mureck",
+    "population": 3551,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Murfeld",
+    "population": 1645,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Mürzzuschlag",
+    "population": 8654,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Naas",
+    "population": 1377,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Nestelbach bei Graz",
+    "population": 2648,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Neuberg an der Mürz",
+    "population": 2494,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Neudau",
+    "population": 1495,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Neumarkt in der Steiermark",
+    "population": 4963,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Niederwölz",
+    "population": 596,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Niklasdorf",
+    "population": 2515,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Obdach",
+    "population": 3810,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Oberhaag",
+    "population": 2136,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Oberwölz",
+    "population": 2960,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Öblarn",
+    "population": 2024,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Ottendorf an der Rittschein",
+    "population": 1560,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Paldau",
+    "population": 3130,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Passail",
+    "population": 4261,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Peggau",
+    "population": 2199,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Pernegg an der Mur",
+    "population": 2341,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Pinggau",
+    "population": 3150,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Pirching am Traubenberg",
+    "population": 2567,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Pischelsdorf am Kulm",
+    "population": 3712,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Pölfing-Brunn",
+    "population": 1619,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Pöllau",
+    "population": 6054,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Pöllauberg",
+    "population": 2049,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Pöls-Oberkurzheim",
+    "population": 2969,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Pölstal",
+    "population": 2670,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Preding",
+    "population": 1767,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Premstätten",
+    "population": 6068,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Proleb",
+    "population": 1534,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Puch bei Weiz",
+    "population": 2091,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Pusterwald",
+    "population": 450,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Raaba-Grambach",
+    "population": 4420,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Radmer",
+    "population": 559,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Ragnitz",
+    "population": 1469,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Ramsau am Dachstein",
+    "population": 2812,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Ranten",
+    "population": 1161,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Ratten",
+    "population": 1122,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Rettenegg",
+    "population": 741,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Riegersburg",
+    "population": 4922,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Rohr bei Hartberg",
+    "population": 1457,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Rohrbach an der Lafnitz",
+    "population": 2634,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Rosental an der Kainach",
+    "population": 1678,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Rottenmann",
+    "population": 5232,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Andrä-Höch",
+    "population": 1731,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Anna am Aigen",
+    "population": 2334,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Barbara im Mürztal",
+    "population": 6583,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Bartholomä",
+    "population": 1442,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Gallen",
+    "population": 1821,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Georgen am Kreischberg",
+    "population": 1766,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Georgen an der Stiefing",
+    "population": 1475,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Georgen ob Judenburg",
+    "population": 850,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Jakob im Walde",
+    "population": 1056,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Johann im Saggautal",
+    "population": 2023,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Johann in der Haide",
+    "population": 2159,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Josef",
+    "population": 1601,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Kathrein am Offenegg",
+    "population": 1086,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Lambrecht",
+    "population": 1841,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Lorenzen am Wechsel",
+    "population": 1487,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Lorenzen im Mürztal",
+    "population": 3626,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Marein bei Graz",
+    "population": 3675,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Marein im Mürztal",
+    "population": 2713,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Marein-Feistritz",
+    "population": 2010,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Margarethen bei Knittelfeld",
+    "population": 2750,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Martin am Wöllmißberg",
+    "population": 790,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Martin im Sulmtal",
+    "population": 3059,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Michael in Obersteiermark",
+    "population": 3060,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Nikolai im Sausal",
+    "population": 2257,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Oswald bei Plankenwarth",
+    "population": 1244,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Peter am Ottersbach",
+    "population": 2950,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Peter im Sulmtal",
+    "population": 1268,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Peter ob Judenburg",
+    "population": 1108,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Peter-Freienstein",
+    "population": 2383,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Radegund bei Graz",
+    "population": 2165,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Ruprecht an der Raab",
+    "population": 5300,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Stefan im Rosental",
+    "population": 3947,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Stefan ob Leoben",
+    "population": 1930,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Stefan ob Stainz",
+    "population": 3571,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Veit in der Südsteiermark",
+    "population": 4062,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Schäffern",
+    "population": 1374,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Scheifling",
+    "population": 2134,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Schladming",
+    "population": 6660,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Schöder",
+    "population": 942,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Schwarzautal",
+    "population": 2310,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Seckau",
+    "population": 1281,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Seiersberg-Pirka",
+    "population": 11187,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Selzthal",
+    "population": 1593,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Semriach",
+    "population": 3323,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sinabelkirchen",
+    "population": 4223,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Söchau",
+    "population": 1413,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Söding-Sankt Johann",
+    "population": 4091,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sölk",
+    "population": 1494,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Spielberg",
+    "population": 5383,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Spital am Semmering",
+    "population": 1595,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Kathrein am Hauenstein",
+    "population": 633,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Margarethen an der Raab",
+    "population": 4074,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Sankt Peter am Kammersberg",
+    "population": 2043,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Stadl-Predlitz",
+    "population": 1684,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Stainach-Pürgg",
+    "population": 2850,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Stainz",
+    "population": 8653,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Stallhofen",
+    "population": 3118,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Stanz im Mürztal",
+    "population": 1827,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Stattegg",
+    "population": 2927,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Stiwoll",
+    "population": 722,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Straden",
+    "population": 3601,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Strallegg",
+    "population": 1925,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Straß in Steiermark",
+    "population": 4852,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Stubenberg",
+    "population": 2171,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Teufenbach-Katsch",
+    "population": 1899,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Thal",
+    "population": 2261,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Thannhausen",
+    "population": 2429,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Thörl",
+    "population": 2295,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Tieschen",
+    "population": 1260,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Tillmitsch",
+    "population": 3284,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Traboch",
+    "population": 1384,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Tragöß-Sankt Katharein",
+    "population": 1894,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Trieben",
+    "population": 3390,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Trofaiach",
+    "population": 11125,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Turnau",
+    "population": 1561,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Übelbach",
+    "population": 2036,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Unterlamm",
+    "population": 1264,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Unzmarkt-Frauenburg",
+    "population": 1346,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Vasoldsberg",
+    "population": 4572,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Voitsberg",
+    "population": 9403,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Vorau",
+    "population": 4731,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Vordernberg",
+    "population": 1045,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Wagna",
+    "population": 5859,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Wald am Schoberpaß",
+    "population": 586,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Waldbach-Mönichwald",
+    "population": 1523,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Weinitzen",
+    "population": 2617,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Weißkirchen in Steiermark",
+    "population": 4853,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Weiz",
+    "population": 11627,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Wenigzell",
+    "population": 1391,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Werndorf",
+    "population": 2365,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Wettmannstätten",
+    "population": 1600,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Wies",
+    "population": 4438,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Wildalpen",
+    "population": 464,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Wildon",
+    "population": 5367,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Wörschach",
+    "population": 1122,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Wundschuh",
+    "population": 1599,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Zeltweg",
+    "population": 7212,
+    "bezirk": "Steiermark"
+  },
+  {
+    "name": "Abfaltersbach",
+    "population": 630,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Absam",
+    "population": 7112,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Achenkirch",
+    "population": 2185,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ainet",
+    "population": 936,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Aldrans",
+    "population": 2684,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Alpbach",
+    "population": 2561,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Amlach",
+    "population": 489,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ampass",
+    "population": 1827,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Angath",
+    "population": 1008,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Angerberg",
+    "population": 1890,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Anras",
+    "population": 1233,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Arzl im Pitztal",
+    "population": 3134,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Aschau im Zillertal",
+    "population": 1866,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Assling",
+    "population": 1769,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Aurach bei Kitzbühel",
+    "population": 1130,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Außervillgraten",
+    "population": 760,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Axams",
+    "population": 5996,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Bach",
+    "population": 614,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Bad Häring",
+    "population": 2777,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Baumkirchen",
+    "population": 1284,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Berwang",
+    "population": 565,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Biberwier",
+    "population": 628,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Bichlbach",
+    "population": 788,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Birgitz",
+    "population": 1419,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Brandberg",
+    "population": 354,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Brandenberg",
+    "population": 1523,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Breitenbach am Inn",
+    "population": 3475,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Breitenwang",
+    "population": 1423,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Brixen im Thale",
+    "population": 2639,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Brixlegg",
+    "population": 2970,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Bruck am Ziller",
+    "population": 1098,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Buch in Tirol",
+    "population": 2548,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Dölsach",
+    "population": 2338,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ebbs",
+    "population": 5601,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Eben am Achensee",
+    "population": 3180,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ehenbichl",
+    "population": 824,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ehrwald",
+    "population": 2593,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Elbigenalp",
+    "population": 889,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ellbögen",
+    "population": 1109,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ellmau",
+    "population": 2828,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Elmen",
+    "population": 373,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Erl",
+    "population": 1540,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Faggen",
+    "population": 383,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fendels",
+    "population": 259,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fieberbrunn",
+    "population": 4287,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Finkenberg",
+    "population": 1421,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fiss",
+    "population": 1009,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Flaurling",
+    "population": 1285,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fließ",
+    "population": 3019,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Flirsch",
+    "population": 990,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Forchach",
+    "population": 259,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fritzens",
+    "population": 2148,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fügen",
+    "population": 4169,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fügenberg",
+    "population": 1405,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fulpmes",
+    "population": 4378,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gaimberg",
+    "population": 822,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gallzein",
+    "population": 668,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Galtür",
+    "population": 765,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gerlos",
+    "population": 790,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gerlosberg",
+    "population": 465,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gnadenwald",
+    "population": 826,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Going am Wilden Kaiser",
+    "population": 1849,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Götzens",
+    "population": 4062,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gramais",
+    "population": 45,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Grän",
+    "population": 599,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gries am Brenner",
+    "population": 1361,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gries im Sellrain",
+    "population": 610,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Grins",
+    "population": 1398,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Grinzens",
+    "population": 1399,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gschnitz",
+    "population": 434,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Haiming",
+    "population": 4659,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hainzenberg",
+    "population": 731,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hall in Tirol",
+    "population": 13897,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hart im Zillertal",
+    "population": 1587,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Häselgehr",
+    "population": 690,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hatting",
+    "population": 1444,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Heinfels",
+    "population": 977,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Heiterwang",
+    "population": 532,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hinterhornbach",
+    "population": 92,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hippach",
+    "population": 1455,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hochfilzen",
+    "population": 1196,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Höfen",
+    "population": 1200,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Holzgau",
+    "population": 412,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hopfgarten im Brixental",
+    "population": 5677,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hopfgarten in Defereggen",
+    "population": 704,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Imst",
+    "population": 10504,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Imsterberg",
+    "population": 777,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Innervillgraten",
+    "population": 938,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Innsbruck",
+    "population": 132493,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Inzing",
+    "population": 3847,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ischgl",
+    "population": 1593,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Iselsberg-Stronach",
+    "population": 596,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Itter",
+    "population": 1150,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Jenbach",
+    "population": 7120,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Jerzens",
+    "population": 975,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Jochberg",
+    "population": 1577,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Jungholz",
+    "population": 301,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kaisers",
+    "population": 76,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kals am Großglockner",
+    "population": 1142,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kaltenbach",
+    "population": 1313,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kappl",
+    "population": 2617,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Karres",
+    "population": 609,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Karrösten",
+    "population": 676,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kartitsch",
+    "population": 803,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kaunerberg",
+    "population": 437,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kaunertal",
+    "population": 597,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kauns",
+    "population": 502,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kematen in Tirol",
+    "population": 2931,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kirchberg in Tirol",
+    "population": 5245,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kirchbichl",
+    "population": 5855,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kirchdorf in Tirol",
+    "population": 3936,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kitzbühel",
+    "population": 8272,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kolsass",
+    "population": 1626,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kolsassberg",
+    "population": 817,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kössen",
+    "population": 4346,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kramsach",
+    "population": 4891,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kufstein",
+    "population": 19223,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kundl",
+    "population": 4464,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ladis",
+    "population": 531,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Landeck",
+    "population": 7725,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Längenfeld",
+    "population": 4611,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Langkampfen",
+    "population": 4108,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Lans",
+    "population": 1096,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Lavant",
+    "population": 320,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Lechaschau",
+    "population": 2108,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Leisach",
+    "population": 729,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Lermoos",
+    "population": 1156,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Leutasch",
+    "population": 2380,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Lienz",
+    "population": 11844,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mariastein",
+    "population": 362,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Matrei am Brenner",
+    "population": 959,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Matrei in Osttirol",
+    "population": 4667,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mayrhofen",
+    "population": 3858,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mieders",
+    "population": 1861,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mieming",
+    "population": 3698,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mils",
+    "population": 4377,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mils bei Imst",
+    "population": 559,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mötz",
+    "population": 1219,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mühlbachl",
+    "population": 1393,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Münster",
+    "population": 3317,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Musau",
+    "population": 391,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mutters",
+    "population": 2202,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Namlos",
+    "population": 72,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Nassereith",
+    "population": 2119,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Natters",
+    "population": 2020,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Nauders",
+    "population": 1542,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Navis",
+    "population": 2004,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Nesselwängle",
+    "population": 455,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Neustift im Stubaital",
+    "population": 4747,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Niederndorf",
+    "population": 2736,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Niederndorferberg",
+    "population": 706,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Nikolsdorf",
+    "population": 894,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Nußdorf-Debant",
+    "population": 3325,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Oberhofen im Inntal",
+    "population": 1857,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Oberlienz",
+    "population": 1485,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Obernberg am Brenner",
+    "population": 363,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Oberndorf in Tirol",
+    "population": 2194,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Oberperfuss",
+    "population": 3043,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Obertilliach",
+    "population": 666,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Obsteig",
+    "population": 1316,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Oetz",
+    "population": 2402,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Patsch",
+    "population": 1014,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pettnau",
+    "population": 1047,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pettneu am Arlberg",
+    "population": 1494,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pfaffenhofen",
+    "population": 1102,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pfafflar",
+    "population": 112,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pflach",
+    "population": 1397,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pfons",
+    "population": 1205,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pfunds",
+    "population": 2602,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pians",
+    "population": 813,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pill",
+    "population": 1174,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pinswang",
+    "population": 412,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Polling in Tirol",
+    "population": 1130,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Prägraten am Großvenediger",
+    "population": 1149,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Prutz",
+    "population": 1825,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Radfeld",
+    "population": 2495,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ramsau im Zillertal",
+    "population": 1617,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ranggen",
+    "population": 1072,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Rattenberg",
+    "population": 411,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Reith bei Kitzbühel",
+    "population": 1662,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Reith bei Seefeld",
+    "population": 1370,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Reith im Alpbachtal",
+    "population": 2722,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Rettenschöss",
+    "population": 513,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Reutte",
+    "population": 6704,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ried im Oberinntal",
+    "population": 1261,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ried im Zillertal",
+    "population": 1280,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Rietz",
+    "population": 2313,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Rinn",
+    "population": 1877,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Rohrberg",
+    "population": 574,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Roppen",
+    "population": 1800,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Rum",
+    "population": 9190,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sautens",
+    "population": 1601,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Scharnitz",
+    "population": 1403,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schattwald",
+    "population": 437,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Scheffau am Wilden Kaiser",
+    "population": 1449,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schlaiten",
+    "population": 474,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schlitters",
+    "population": 1481,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schmirn",
+    "population": 872,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schönberg im Stubaital",
+    "population": 1101,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schönwies",
+    "population": 1697,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schwaz",
+    "population": 13728,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schwendau",
+    "population": 1725,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schwendt",
+    "population": 823,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schwoich",
+    "population": 2515,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "See",
+    "population": 1265,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Seefeld in Tirol",
+    "population": 3440,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sellrain",
+    "population": 1333,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Serfaus",
+    "population": 1134,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sillian",
+    "population": 2051,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Silz",
+    "population": 2560,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sistrans",
+    "population": 2255,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sölden",
+    "population": 3145,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Söll",
+    "population": 3631,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Spiss",
+    "population": 114,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "St Anton am Arlberg",
+    "population": 2372,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Jakob in Defereggen",
+    "population": 848,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Jakob in Haus",
+    "population": 791,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Johann im Walde",
+    "population": 285,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "St. Johann in Tyrol",
+    "population": 9428,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Leonhard im Pitztal",
+    "population": 1382,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Sigmund im Sellrain",
+    "population": 175,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Ulrich am Pillersee",
+    "population": 1819,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Veit in Defereggen",
+    "population": 670,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Stams",
+    "population": 1495,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Stans",
+    "population": 2035,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Stanz bei Landeck",
+    "population": 577,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Stanzach",
+    "population": 455,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Steeg",
+    "population": 671,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Steinach am Brenner",
+    "population": 3622,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Steinberg am Rofan",
+    "population": 286,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Strass im Zillertal",
+    "population": 836,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Strassen",
+    "population": 808,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Strengen",
+    "population": 1213,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Stumm",
+    "population": 1885,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Stummerberg",
+    "population": 844,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tannheim",
+    "population": 1067,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tarrenz",
+    "population": 2744,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Telfes",
+    "population": 1570,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Telfs",
+    "population": 15747,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Terfens",
+    "population": 2184,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Thaur",
+    "population": 3979,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Thiersee",
+    "population": 2990,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Thurn",
+    "population": 608,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tobadill",
+    "population": 516,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tösens",
+    "population": 728,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Trins",
+    "population": 1277,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tristach",
+    "population": 1437,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tulfes",
+    "population": 1550,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tux",
+    "population": 1941,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Uderns",
+    "population": 1845,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Umhausen",
+    "population": 3220,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Unterperfuss",
+    "population": 224,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Untertilliach",
+    "population": 237,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Vals",
+    "population": 532,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Vils",
+    "population": 1535,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Virgen",
+    "population": 2199,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Volders",
+    "population": 4464,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Völs",
+    "population": 6738,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Vomp",
+    "population": 5146,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Vorderhornbach",
+    "population": 245,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Waidring",
+    "population": 2019,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Walchsee",
+    "population": 1878,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wängle",
+    "population": 931,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wattenberg",
+    "population": 739,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wattens",
+    "population": 7881,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Weer",
+    "population": 1539,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Weerberg",
+    "population": 2482,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Weißenbach am Lech",
+    "population": 1250,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wenns",
+    "population": 2044,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Westendorf",
+    "population": 3652,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wiesing",
+    "population": 2124,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wildermieming",
+    "population": 935,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wildschönau",
+    "population": 4242,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wörgl",
+    "population": 13811,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Zams",
+    "population": 3409,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Zell am Ziller",
+    "population": 1758,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Zellberg",
+    "population": 648,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Zöblen",
+    "population": 231,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Alberschwende",
+    "population": 3247,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Altach",
+    "population": 6624,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Andelsbuch",
+    "population": 2565,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Au",
+    "population": 1736,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bartholomäberg",
+    "population": 2352,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bezau",
+    "population": 2003,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bildstein",
+    "population": 766,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bizau",
+    "population": 1107,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Blons",
+    "population": 349,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bludenz",
+    "population": 14539,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bludesch",
+    "population": 2386,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Brand",
+    "population": 719,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bregenz",
+    "population": 29806,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Buch",
+    "population": 596,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bürs",
+    "population": 3275,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Bürserberg",
+    "population": 572,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Dalaas",
+    "population": 1597,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Damüls",
+    "population": 313,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Doren",
+    "population": 1029,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Dornbirn",
+    "population": 49278,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Düns",
+    "population": 411,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Dünserberg",
+    "population": 147,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Egg",
+    "population": 3547,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Eichenberg",
+    "population": 427,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Feldkirch",
+    "population": 33420,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Fontanella",
+    "population": 437,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Frastanz",
+    "population": 6434,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Fraxern",
+    "population": 701,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Fußach",
+    "population": 3871,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Gaißau",
+    "population": 1827,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Gemeinde Gaschurn-Partenen",
+    "population": 1464,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Göfis",
+    "population": 3312,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Götzis",
+    "population": 11473,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Hard",
+    "population": 13495,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Hittisau",
+    "population": 2032,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Höchst",
+    "population": 7995,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Hohenems",
+    "population": 16317,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Hohenweiler",
+    "population": 1271,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Hörbranz",
+    "population": 6346,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Innerbraz",
+    "population": 994,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Kennelbach",
+    "population": 1944,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Klaus",
+    "population": 3118,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Klösterle",
+    "population": 688,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Koblach",
+    "population": 4577,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Krumbach",
+    "population": 1042,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Langen bei Bregenz",
+    "population": 1405,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Langenegg",
+    "population": 1133,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Laterns",
+    "population": 662,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Lauterach",
+    "population": 10267,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Lech",
+    "population": 1568,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Lingenau",
+    "population": 1466,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Lochau",
+    "population": 5747,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Lorüns",
+    "population": 294,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Ludesch",
+    "population": 3437,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Lustenau",
+    "population": 22821,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Mäder",
+    "population": 4031,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Meiningen",
+    "population": 2245,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Mellau",
+    "population": 1301,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Mittelberg",
+    "population": 4962,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Möggers",
+    "population": 534,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Nenzing",
+    "population": 6239,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Nüziders",
+    "population": 4962,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Raggal",
+    "population": 868,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Rankweil",
+    "population": 11855,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Reuthe",
+    "population": 658,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Riefensberg",
+    "population": 1086,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Röns",
+    "population": 352,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Röthis",
+    "population": 1942,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Satteins",
+    "population": 2703,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schlins",
+    "population": 2404,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schnepfau",
+    "population": 449,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schnifis",
+    "population": 798,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schoppernau",
+    "population": 950,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schröcken",
+    "population": 224,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schruns",
+    "population": 3818,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schwarzach",
+    "population": 3949,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Schwarzenberg",
+    "population": 1850,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Sibratsgfäll",
+    "population": 401,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Silbertal",
+    "population": 834,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Sonntag",
+    "population": 671,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Sankt Anton im Montafon",
+    "population": 715,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "St. Gallenkirch",
+    "population": 2246,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Sankt Gerold",
+    "population": 410,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Stallehr",
+    "population": 289,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Sulz",
+    "population": 2527,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Sulzberg",
+    "population": 1818,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Thüringen",
+    "population": 2222,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Thüringerberg",
+    "population": 714,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Tschagguns",
+    "population": 2195,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Übersaxen",
+    "population": 629,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Vandans",
+    "population": 2636,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Viktorsberg",
+    "population": 411,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Warth",
+    "population": 170,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Weiler",
+    "population": 2075,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Wolfurt",
+    "population": 8446,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Zwischenwasser",
+    "population": 3203,
+    "bezirk": "Vorarlberg"
+  },
+  {
+    "name": "Vienna",
+    "population": 1888776,
+    "bezirk": "Wien"
+  },
+  {
+    "name": "Abtenau",
+    "population": 5842,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Adnet",
+    "population": 3557,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Altenmarkt im Pongau",
+    "population": 4218,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Anif",
+    "population": 4195,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Annaberg-Lungötz",
+    "population": 2203,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Anthering",
+    "population": 3734,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bad Gastein",
+    "population": 3980,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bad Hofgastein",
+    "population": 6914,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bad Vigaun",
+    "population": 2091,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bergheim",
+    "population": 5388,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Berndorf bei Salzburg",
+    "population": 1689,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bischofshofen",
+    "population": 10540,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bramberg am Wildkogel",
+    "population": 3936,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bruck an der Großglocknerstraße",
+    "population": 4699,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bürmoos",
+    "population": 4899,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Dienten am Hochkönig",
+    "population": 761,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Dorfbeuern",
+    "population": 1547,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Dorfgastein",
+    "population": 1614,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Eben im Pongau",
+    "population": 2446,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Ebenau",
+    "population": 1439,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Elixhausen",
+    "population": 2963,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Elsbethen",
+    "population": 5424,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Eugendorf",
+    "population": 6937,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Faistenau",
+    "population": 3103,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Filzmoos",
+    "population": 1484,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Flachau",
+    "population": 2813,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Forstau",
+    "population": 540,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Fusch an der Großglocknerstraße",
+    "population": 719,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Fuschl am See",
+    "population": 1520,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Goldegg",
+    "population": 2533,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Golling an der Salzach",
+    "population": 4271,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Göming",
+    "population": 764,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Göriach",
+    "population": 337,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Grödig",
+    "population": 7262,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Großarl",
+    "population": 3825,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Großgmain",
+    "population": 2615,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hallein",
+    "population": 21150,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hallwang",
+    "population": 4189,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Henndorf am Wallersee",
+    "population": 4947,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hintersee",
+    "population": 443,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hof bei Salzburg",
+    "population": 3562,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hollersbach im Pinzgau",
+    "population": 1220,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hüttau",
+    "population": 1492,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hüttschlag",
+    "population": 911,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Kaprun",
+    "population": 3177,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Kleinarl",
+    "population": 792,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Koppl",
+    "population": 3472,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Köstendorf",
+    "population": 2631,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Krimml",
+    "population": 847,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Krispl",
+    "population": 889,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Kuchl",
+    "population": 7274,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Lamprechtshausen",
+    "population": 4037,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Lend",
+    "population": 1368,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Leogang",
+    "population": 3263,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Lessach",
+    "population": 555,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Lofer",
+    "population": 2037,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Maishofen",
+    "population": 3601,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Maria Alm",
+    "population": 2197,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Mariapfarr",
+    "population": 2375,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Mattsee",
+    "population": 3263,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Mauterndorf",
+    "population": 1639,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Mittersill",
+    "population": 5380,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Mühlbach am Hochkönig",
+    "population": 1461,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Muhr",
+    "population": 510,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Neukirchen am Großvenediger",
+    "population": 2517,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Neumarkt am Wallersee",
+    "population": 6297,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Niedernsill",
+    "population": 2694,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Nußdorf am Haunsberg",
+    "population": 2383,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Oberalm",
+    "population": 4325,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Oberndorf bei Salzburg",
+    "population": 5815,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Obertrum",
+    "population": 4808,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Pfarrwerfen",
+    "population": 2292,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Piesendorf",
+    "population": 3790,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Plainfeld",
+    "population": 1237,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Puch bei Hallein",
+    "population": 4675,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Radstadt",
+    "population": 4823,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Ramingstein",
+    "population": 1059,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Rauris",
+    "population": 3044,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Rußbach am Paß Gschütt",
+    "population": 767,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Saalbach-Hinterglemm",
+    "population": 2859,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Saalfelden",
+    "population": 16700,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Salzburg",
+    "population": 153377,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Andrä im Lungau",
+    "population": 761,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Georgen bei Salzburg",
+    "population": 2954,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Gilgen",
+    "population": 3915,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Johann im Pongau",
+    "population": 10944,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Koloman",
+    "population": 1725,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Margarethen im Lungau",
+    "population": 725,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Martin am Tennengebirge",
+    "population": 1666,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Martin bei Lofer",
+    "population": 1153,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Michael im Lungau",
+    "population": 3520,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Veit im Pongau",
+    "population": 3788,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Scheffau am Tennengebirge",
+    "population": 1395,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Schleedorf",
+    "population": 1069,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Schwarzach im Pongau",
+    "population": 3515,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Seeham",
+    "population": 1939,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Seekirchen am Wallersee",
+    "population": 10764,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Straßwalchen",
+    "population": 7420,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Strobl",
+    "population": 3645,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Stuhlfelden",
+    "population": 1604,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Tamsweg",
+    "population": 5717,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Taxenbach",
+    "population": 2747,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Thalgau",
+    "population": 5931,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Thomatal",
+    "population": 333,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Tweng",
+    "population": 276,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Unken",
+    "population": 1954,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Unternberg",
+    "population": 1035,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Untertauern",
+    "population": 466,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Uttendorf",
+    "population": 2982,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Viehhofen",
+    "population": 603,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Wagrain",
+    "population": 3085,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Wald im Pinzgau",
+    "population": 1124,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Wals-Siezenheim",
+    "population": 13056,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Weißbach bei Lofer",
+    "population": 429,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Weißpriach",
+    "population": 306,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Werfen",
+    "population": 3027,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Werfenweng",
+    "population": 1012,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Zederhaus",
+    "population": 1196,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Zell am See",
+    "population": 9852,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Afritz am See",
+    "population": 1429,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Albeck",
+    "population": 995,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Althofen",
+    "population": 4759,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Arnoldstein",
+    "population": 7096,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Arriach",
+    "population": 1349,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Bad Bleiberg",
+    "population": 2283,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Bad Kleinkirchheim",
+    "population": 1723,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Bad Sankt Leonhard im Lavanttal",
+    "population": 4375,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Baldramsdorf",
+    "population": 1866,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Berg im Drautal",
+    "population": 1278,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Bleiburg",
+    "population": 4072,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Brückl",
+    "population": 2717,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Dellach",
+    "population": 1231,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Dellach im Drautal",
+    "population": 1595,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Deutsch-Griffen",
+    "population": 908,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Diex",
+    "population": 825,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Ebenthal in Kärnten",
+    "population": 7851,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Eberndorf",
+    "population": 5862,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Eberstein",
+    "population": 1271,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Eisenkappel-Vellach",
+    "population": 2306,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Feistritz an der Gail",
+    "population": 627,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Feistritz im Rosental",
+    "population": 2506,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Feistritz ob Bleiburg",
+    "population": 2185,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Feld am See",
+    "population": 1094,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Feldkirchen in Kärnten",
+    "population": 14198,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Ferlach",
+    "population": 7141,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Ferndorf",
+    "population": 2156,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Finkenstein am Faaker See",
+    "population": 9003,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Flattach",
+    "population": 1200,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Frantschach-Sankt Gertraud",
+    "population": 2605,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Frauenstein",
+    "population": 3597,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Fresach",
+    "population": 1207,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Friesach",
+    "population": 4947,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Gallizien",
+    "population": 1761,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Gitschtal",
+    "population": 1261,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Glanegg",
+    "population": 1869,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Globasnitz",
+    "population": 1620,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Glödnitz",
+    "population": 807,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Gmünd in Kärnten",
+    "population": 2550,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Gnesau",
+    "population": 1034,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Grafenstein",
+    "population": 2884,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Greifenburg",
+    "population": 1736,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Griffen",
+    "population": 3466,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Großkirchheim",
+    "population": 1337,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Gurk",
+    "population": 1226,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Guttaring",
+    "population": 1470,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Heiligenblut am Großglockner",
+    "population": 1020,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Hermagor-Pressegger See",
+    "population": 6824,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Himmelberg",
+    "population": 2287,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Hohenthurn",
+    "population": 851,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Hüttenberg",
+    "population": 1414,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Irschen",
+    "population": 2022,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Kappel am Krappfeld",
+    "population": 1951,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Keutschach am See",
+    "population": 2450,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Kirchbach",
+    "population": 2599,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Klagenfurt am Wörthersee",
+    "population": 100369,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Kleblach-Lind",
+    "population": 1174,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Klein Sankt Paul",
+    "population": 1820,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Kötschach-Mauthen",
+    "population": 3348,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Köttmannsdorf",
+    "population": 3004,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Krems in Kärnten",
+    "population": 1679,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Krumpendorf am Wörthersee",
+    "population": 3497,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Lavamünd",
+    "population": 2941,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Lendorf",
+    "population": 1712,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Lesachtal",
+    "population": 1318,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Liebenfels",
+    "population": 3329,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Ludmannsdorf",
+    "population": 1780,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Lurnfeld",
+    "population": 2599,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Magdalensberg",
+    "population": 3455,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Mallnitz",
+    "population": 786,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Malta",
+    "population": 1986,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Maria Rain",
+    "population": 2584,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Maria Saal",
+    "population": 3835,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Maria Wörth",
+    "population": 1611,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Metnitz",
+    "population": 2011,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Micheldorf",
+    "population": 1000,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Millstatt am See",
+    "population": 3460,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Mölbling",
+    "population": 1315,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Moosburg",
+    "population": 4482,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Mörtschach",
+    "population": 816,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Mühldorf",
+    "population": 1007,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Neuhaus",
+    "population": 1040,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Nötsch im Gailtal",
+    "population": 2233,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Oberdrauburg",
+    "population": 1172,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Obervellach",
+    "population": 2201,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Ossiach",
+    "population": 785,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Paternion",
+    "population": 5819,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Poggersdorf",
+    "population": 3193,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Pörtschach am Wörthersee",
+    "population": 2751,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Preitenegg",
+    "population": 932,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Radenthein",
+    "population": 5831,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Rangersdorf",
+    "population": 1736,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Reichenau",
+    "population": 1822,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Reichenfels",
+    "population": 1851,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Reißeck",
+    "population": 2145,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Rennweg am Katschberg",
+    "population": 1754,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Rosegg",
+    "population": 1832,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Ruden",
+    "population": 1530,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Schiefling am Wörthersee",
+    "population": 2651,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Seeboden am Millstätter See",
+    "population": 6418,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sittersdorf",
+    "population": 2011,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Spittal an der Drau",
+    "population": 15413,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Andrä",
+    "population": 9957,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Georgen am Längsee",
+    "population": 3648,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Georgen im Lavanttal",
+    "population": 1981,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Jakob im Rosental",
+    "population": 4245,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Kanzian am Klopeiner See",
+    "population": 4403,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Margareten im Rosental",
+    "population": 1099,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Paul im Lavanttal",
+    "population": 3303,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Stefan im Gailtal",
+    "population": 1593,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Urban",
+    "population": 1544,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Veit an der Glan",
+    "population": 12547,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Stall",
+    "population": 1575,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Steindorf am Ossiacher See",
+    "population": 3771,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Steinfeld",
+    "population": 2051,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Steuerberg",
+    "population": 1662,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Stockenboi",
+    "population": 1604,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Straßburg",
+    "population": 2095,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Techelsberg am Wörther See",
+    "population": 2203,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Trebesing",
+    "population": 1158,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Treffen am Ossiacher See",
+    "population": 4455,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Velden am Wörther See",
+    "population": 8954,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Villach",
+    "population": 61879,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Völkermarkt",
+    "population": 10946,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Weißensee",
+    "population": 759,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Weißenstein",
+    "population": 2961,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Weitensfeld im Gurktal",
+    "population": 2091,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Wernberg",
+    "population": 5547,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Winklern",
+    "population": 1200,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Wolfsberg",
+    "population": 25035,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Zell",
+    "population": 609,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Absdorf",
+    "population": 2087,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Achau",
+    "population": 1415,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Aderklaa",
+    "population": 207,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Aggsbach",
+    "population": 643,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Alberndorf im Pulkautal",
+    "population": 744,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Albrechtsberg an der Großen Krems",
+    "population": 1036,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Alland",
+    "population": 2622,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Allentsteig",
+    "population": 1835,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Allhartsberg",
+    "population": 2108,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Altenburg",
+    "population": 828,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Altendorf",
+    "population": 348,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Altenmarkt an der Triesting",
+    "population": 2113,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Altlengbach",
+    "population": 2927,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Altlichtenwarth",
+    "population": 769,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Altmelon",
+    "population": 862,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Amaliendorf-Aalfang",
+    "population": 1102,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Amstetten",
+    "population": 23656,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Andlersdorf",
+    "population": 137,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Angern an der March",
+    "population": 3384,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Annaberg",
+    "population": 533,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Arbesbach",
+    "population": 1638,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ardagger",
+    "population": 3511,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Artstetten-Pöbring",
+    "population": 1184,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Aschbach-Markt",
+    "population": 3811,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Aspangberg-Sankt Peter",
+    "population": 1888,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Aspang-Markt",
+    "population": 1816,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Asparn an der Zaya",
+    "population": 1865,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Asperhofen",
+    "population": 2206,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Atzenbrugg",
+    "population": 2948,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Au am Leithaberge",
+    "population": 934,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Auersthal",
+    "population": 1932,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Deutsch-Altenburg",
+    "population": 1765,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Erlach",
+    "population": 3084,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Fischau-Brunn",
+    "population": 3440,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Großpertholz",
+    "population": 1359,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Pirawarth",
+    "population": 1671,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Schönau",
+    "population": 721,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Traunstein",
+    "population": 1036,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Vöslau",
+    "population": 11961,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Baden bei Wien",
+    "population": 26286,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bärnkopf",
+    "population": 355,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Behamberg",
+    "population": 3387,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Berg",
+    "population": 861,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bergern im Dunkelsteinerwald",
+    "population": 1253,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bergland",
+    "population": 1909,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Berndorf",
+    "population": 9064,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bernhardsthal",
+    "population": 1604,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Biberbach",
+    "population": 2270,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Biedermannsdorf",
+    "population": 2988,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bisamberg",
+    "population": 4729,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bischofstetten",
+    "population": 1176,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Blindenmarkt",
+    "population": 2712,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Blumau-Neurißhof",
+    "population": 1840,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bockfließ",
+    "population": 1348,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Böheimkirchen",
+    "population": 5087,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Brand-Laaben",
+    "population": 1232,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Brand-Nagelberg",
+    "population": 1546,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Breitenau",
+    "population": 1576,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Breitenfurt bei Wien",
+    "population": 5853,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Breitenstein",
+    "population": 318,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bromberg",
+    "population": 1232,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bruck an der Leitha",
+    "population": 7988,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Brunn am Gebirge",
+    "population": 11864,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Brunn an der Wild",
+    "population": 826,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Buchbach",
+    "population": 330,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Burgschleinitz-Kühnring",
+    "population": 1360,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bürg-Vöstenhof",
+    "population": 179,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Deutsch-Wagram",
+    "population": 8651,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Dietmanns",
+    "population": 1063,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Dobersberg",
+    "population": 1618,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Dorfstetten",
+    "population": 584,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Drasenhofen",
+    "population": 1109,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Drosendorf-Zissersdorf",
+    "population": 1213,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Drösing",
+    "population": 1132,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Droß",
+    "population": 983,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Dunkelsteinerwald",
+    "population": 2390,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Dürnkrut",
+    "population": 2267,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Dürnstein",
+    "population": 864,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ebenfurth",
+    "population": 3170,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ebenthal",
+    "population": 923,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ebergassing",
+    "population": 3904,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ebreichsdorf",
+    "population": 10942,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Echsenbach",
+    "population": 1256,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eckartsau",
+    "population": 1283,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Edlitz",
+    "population": 934,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eggenburg",
+    "population": 3540,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eggendorf",
+    "population": 4794,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eggern",
+    "population": 688,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eichgraben",
+    "population": 4614,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eisgarn",
+    "population": 684,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Emmersdorf an der Donau",
+    "population": 1778,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Engelhartstetten",
+    "population": 2055,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ennsdorf",
+    "population": 3031,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Enzenreith",
+    "population": 1946,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Enzersdorf an der Fischa",
+    "population": 3163,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Enzersfeld im Weinviertel",
+    "population": 1713,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Enzesfeld-Lindabrunn",
+    "population": 4174,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Erlauf",
+    "population": 1069,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ernstbrunn",
+    "population": 3213,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ernsthofen",
+    "population": 2230,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ertl",
+    "population": 1252,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eschenau",
+    "population": 1306,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Euratsfeld",
+    "population": 2639,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Falkenstein",
+    "population": 457,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Fallbach",
+    "population": 819,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Feistritz am Wechsel",
+    "population": 1038,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Felixdorf",
+    "population": 4292,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Fels am Wagram",
+    "population": 2318,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ferschnitz",
+    "population": 1770,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Fischamend",
+    "population": 5583,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Frankenfels",
+    "population": 1975,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Furth an der Triesting",
+    "population": 862,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Furth bei Göttweig",
+    "population": 2956,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gaaden",
+    "population": 1624,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gablitz",
+    "population": 4968,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gaming",
+    "population": 3121,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gänserndorf",
+    "population": 11404,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gars am Kamp",
+    "population": 3534,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gastern",
+    "population": 1218,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gaubitsch",
+    "population": 894,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gaweinstal",
+    "population": 3947,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gedersdorf",
+    "population": 2184,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Geras",
+    "population": 1325,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gerasdorf bei Wien",
+    "population": 11155,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gerersdorf",
+    "population": 974,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gföhl",
+    "population": 3783,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gießhübl",
+    "population": 2335,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Glinzendorf",
+    "population": 295,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gloggnitz",
+    "population": 5916,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gmünd",
+    "population": 5375,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gnadendorf",
+    "population": 1127,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Göllersdorf",
+    "population": 2999,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Golling an der Erlauf",
+    "population": 1514,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Göpfritz an der Wild",
+    "population": 1826,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Göstling an der Ybbs",
+    "population": 2058,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Göttlesbrunn-Arbesthal",
+    "population": 1411,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Götzendorf an der Leitha",
+    "population": 2062,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grabern",
+    "population": 1642,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grafenbach-Sankt Valentin",
+    "population": 2264,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grafenegg",
+    "population": 3061,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grafenschlag",
+    "population": 853,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grafenwörth",
+    "population": 3132,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gramatneusiedl",
+    "population": 3461,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gresten",
+    "population": 1987,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gresten-Land",
+    "population": 1521,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grimmenstein",
+    "population": 1348,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Groß Gerungs",
+    "population": 4506,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großdietmanns",
+    "population": 2215,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großebersdorf",
+    "population": 2236,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großengersdorf",
+    "population": 1478,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Groß-Enzersdorf",
+    "population": 11206,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großgöttfritz",
+    "population": 1371,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großharras",
+    "population": 1116,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großhofen",
+    "population": 98,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großkrut",
+    "population": 1572,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großmugl",
+    "population": 1595,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großriedenthal",
+    "population": 899,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großrußbach",
+    "population": 2194,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großschönau",
+    "population": 1211,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Groß-Schweinbarth",
+    "population": 1245,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Groß-Siegharts",
+    "population": 2775,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großweikersdorf",
+    "population": 3180,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grünbach am Schneeberg",
+    "population": 1647,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gumpoldskirchen",
+    "population": 3899,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Günselsdorf",
+    "population": 1707,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Guntersdorf",
+    "population": 1145,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Guntramsdorf",
+    "population": 9179,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gutenbrunn",
+    "population": 536,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gutenstein",
+    "population": 1268,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haag",
+    "population": 5548,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hadersdorf-Kammern",
+    "population": 2009,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hadres",
+    "population": 1685,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hafnerbach",
+    "population": 1672,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hagenbrunn",
+    "population": 2227,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haidershofen",
+    "population": 3670,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hainburg an der Donau",
+    "population": 6570,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hainfeld",
+    "population": 3726,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hardegg",
+    "population": 1309,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haringsee",
+    "population": 1179,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Harmannsdorf",
+    "population": 3951,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haslau-Maria Ellend",
+    "population": 2004,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haugschlag",
+    "population": 485,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haugsdorf",
+    "population": 1548,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haunoldstein",
+    "population": 1160,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hausbrunn",
+    "population": 857,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hauskirchen",
+    "population": 1248,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hausleiten",
+    "population": 3784,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Heidenreichstein",
+    "population": 4010,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Heiligenkreuz",
+    "population": 1525,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Heldenberg",
+    "population": 1270,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hennersdorf bei Wien",
+    "population": 1541,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hernstein",
+    "population": 1542,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Herrnbaumgarten",
+    "population": 943,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Herzogenburg",
+    "population": 7771,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Himberg",
+    "population": 7375,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hinterbrühl",
+    "population": 4029,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hirschbach",
+    "population": 581,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hirtenberg",
+    "population": 2586,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hochleithen",
+    "population": 1166,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hochneukirchen-Gschaidt",
+    "population": 1633,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hochwolkersdorf",
+    "population": 1004,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hof am Leithaberge",
+    "population": 1549,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hofamt Priel",
+    "population": 1675,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Höflein",
+    "population": 1234,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Höflein an der Hohen Wand",
+    "population": 895,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hofstetten-Grünau",
+    "population": 2693,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hohe Wand",
+    "population": 1428,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hohenau an der March",
+    "population": 2738,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hohenberg",
+    "population": 1515,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hoheneich",
+    "population": 1424,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hohenruppersdorf",
+    "population": 910,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hohenwarth-Mühlbach am Manhartsberg",
+    "population": 1304,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hollabrunn",
+    "population": 11681,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hollenstein an der Ybbs",
+    "population": 1706,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hollenthon",
+    "population": 1018,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Horn",
+    "population": 6520,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hundsheim",
+    "population": 590,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hürm",
+    "population": 1828,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Inzersdorf-Getzersdorf",
+    "population": 1581,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Irnfritz-Messern",
+    "population": 1409,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Jaidhof",
+    "population": 1225,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Japons",
+    "population": 733,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Jedenspeigen",
+    "population": 1064,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Judenau-Baumgarten",
+    "population": 2262,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kaltenleutgeben",
+    "population": 3276,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kapelln",
+    "population": 1381,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Karlstein an der Thaya",
+    "population": 1468,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Karlstetten",
+    "population": 2159,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kasten bei Böheimkirchen",
+    "population": 1409,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Katzelsdorf",
+    "population": 3257,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kaumberg",
+    "population": 1016,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kautzen",
+    "population": 1119,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kematen an der Ybbs",
+    "population": 2625,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kilb",
+    "population": 2543,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchberg am Wagram",
+    "population": 3670,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchberg am Walde",
+    "population": 1313,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchberg am Wechsel",
+    "population": 2505,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchberg an der Pielach",
+    "population": 3225,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchschlag",
+    "population": 621,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchschlag in der Buckligen Welt",
+    "population": 2889,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchstetten",
+    "population": 2189,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirnberg an der Mank",
+    "population": 1070,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Klausen-Leopoldsdorf",
+    "population": 1681,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Klein-Neusiedl",
+    "population": 907,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Klein-Pöchlarn",
+    "population": 991,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kleinzell",
+    "population": 831,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Klosterneuburg",
+    "population": 27058,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Königsbrunn am Wagram",
+    "population": 1319,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Königstetten",
+    "population": 2406,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Korneuburg",
+    "population": 12986,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kottes-Purk",
+    "population": 1485,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kottingbrunn",
+    "population": 7417,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Krems an der Donau",
+    "population": 24610,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kreuttal",
+    "population": 1429,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kreuzstetten",
+    "population": 1541,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Krumau am Kamp",
+    "population": 759,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Krumbach",
+    "population": 2316,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Krummnußbaum",
+    "population": 1500,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Laa an der Thaya",
+    "population": 6280,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Laab im Walde",
+    "population": 1137,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ladendorf",
+    "population": 2298,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Langau",
+    "population": 673,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Langenlois",
+    "population": 7609,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Langenrohr",
+    "population": 2369,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Langenzersdorf",
+    "population": 8137,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Langschlag",
+    "population": 1782,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lanzendorf",
+    "population": 1886,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lanzenkirchen",
+    "population": 3983,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lassee",
+    "population": 2765,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Laxenburg",
+    "population": 2828,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Leiben",
+    "population": 1362,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Leitzersdorf",
+    "population": 1204,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lengenfeld",
+    "population": 1412,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Leobendorf",
+    "population": 4847,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Leobersdorf",
+    "population": 4915,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Leopoldsdorf",
+    "population": 5078,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lichtenau im Waldviertel",
+    "population": 2049,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lichtenegg",
+    "population": 1034,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lichtenwörth",
+    "population": 2727,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lilienfeld",
+    "population": 2833,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Litschau",
+    "population": 2259,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Loich",
+    "population": 603,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Loosdorf",
+    "population": 3794,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ludweis-Aigen",
+    "population": 914,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lunz am See",
+    "population": 1806,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mailberg",
+    "population": 558,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Maissau",
+    "population": 1946,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mank",
+    "population": 3219,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mannersdorf am Leithagebirge",
+    "population": 4069,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mannsdorf an der Donau",
+    "population": 342,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Marbach an der Donau",
+    "population": 1677,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Marchegg",
+    "population": 2960,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Maria Enzersdorf",
+    "population": 8829,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Maria Laach am Jauerling",
+    "population": 916,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Maria Taferl",
+    "population": 887,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Maria Anzbach",
+    "population": 3055,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Maria Lanzendorf",
+    "population": 2129,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Markersdorf-Haindorf",
+    "population": 2083,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Markgrafneusiedl",
+    "population": 832,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Markt Piesting",
+    "population": 3007,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Martinsberg",
+    "population": 1096,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Matzendorf-Hölles",
+    "population": 2040,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Matzen-Raggendorf",
+    "population": 2794,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mauerbach",
+    "population": 3661,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mautern an der Donau",
+    "population": 3567,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Meiseldorf",
+    "population": 876,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Melk",
+    "population": 5529,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Michelbach",
+    "population": 915,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Michelhausen",
+    "population": 3113,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Miesenbach",
+    "population": 703,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mistelbach",
+    "population": 11559,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mitterbach am Erlaufsee",
+    "population": 499,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mitterndorf an der Fischa",
+    "population": 2685,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mödling",
+    "population": 20555,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mönichkirchen",
+    "population": 606,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Moorbad Harbach",
+    "population": 717,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Moosbrunn",
+    "population": 1777,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Muckendorf-Wipfing",
+    "population": 1573,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Muggendorf",
+    "population": 528,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mühldorf",
+    "population": 1331,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Münchendorf",
+    "population": 2992,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Münichreith-Laimbach",
+    "population": 1662,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Nappersdorf-Kammersdorf",
+    "population": 1233,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Natschbach-Loipersbach",
+    "population": 1702,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neidling",
+    "population": 1461,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neudorf bei Staatz",
+    "population": 1430,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neuhofen an der Ybbs",
+    "population": 2930,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neulengbach",
+    "population": 8281,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neumarkt an der Ybbs",
+    "population": 1919,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neunkirchen",
+    "population": 12879,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neusiedl an der Zaya",
+    "population": 1252,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neustadtl an der Donau",
+    "population": 2143,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neustift-Innermanzing",
+    "population": 1543,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Niederhollabrunn",
+    "population": 1534,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Niederleis",
+    "population": 861,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Nöchling",
+    "population": 1077,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Nußdorf ob der Traisen",
+    "population": 1758,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ober-Grafendorf",
+    "population": 4544,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Oberndorf an der Melk",
+    "population": 2957,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Obersiebenbrunn",
+    "population": 1708,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Oberwaltersdorf",
+    "population": 4618,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Obritzberg-Rust",
+    "population": 2342,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Oed-Öhling",
+    "population": 1884,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Opponitz",
+    "population": 947,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Orth an der Donau",
+    "population": 2086,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ottenschlag",
+    "population": 1002,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ottenthal",
+    "population": 544,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Otterthal",
+    "population": 592,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Palterndorf-Dobermannsdorf",
+    "population": 1333,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Parbasdorf",
+    "population": 169,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Paudorf",
+    "population": 2598,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Payerbach",
+    "population": 2076,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Perchtoldsdorf",
+    "population": 15047,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pernegg",
+    "population": 701,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pernersdorf",
+    "population": 1022,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pernitz",
+    "population": 2473,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Persenbeug-Gottsdorf",
+    "population": 2201,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Petronell-Carnuntum",
+    "population": 1245,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Petzenkirchen",
+    "population": 1311,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pfaffenschlag bei Waidhofen",
+    "population": 913,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pfaffstätten",
+    "population": 3551,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pillichsdorf",
+    "population": 1157,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pitten",
+    "population": 2697,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pöchlarn",
+    "population": 3912,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pöggstall",
+    "population": 2435,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pölla",
+    "population": 939,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pottendorf",
+    "population": 7049,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pottenstein",
+    "population": 2909,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Poysdorf",
+    "population": 5527,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Prellenkirchen",
+    "population": 1577,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pressbaum",
+    "population": 7559,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Prigglitz",
+    "population": 434,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Prinzersdorf",
+    "population": 1617,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Prottes",
+    "population": 1436,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pürschling",
+    "population": 1395,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Puchberg am Schneeberg",
+    "population": 2683,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Puchenstuben",
+    "population": 311,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pulkau",
+    "population": 1560,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Purgstall an der Erlauf",
+    "population": 5348,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Purkersdorf",
+    "population": 9701,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pyhra",
+    "population": 3553,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Raabs an der Thaya",
+    "population": 2651,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Raach am Hochgebirge",
+    "population": 281,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Raasdorf",
+    "population": 645,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rabensburg",
+    "population": 1100,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rabenstein an der Pielach",
+    "population": 2560,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ramsau",
+    "population": 850,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Randegg",
+    "population": 1880,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rappottenstein",
+    "population": 1724,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rastenfeld",
+    "population": 1551,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rauchenwarth",
+    "population": 742,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ravelsbach",
+    "population": 1580,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Raxendorf",
+    "population": 1050,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Reichenau an der Rax",
+    "population": 2571,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Reingers",
+    "population": 635,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Reinsberg",
+    "population": 1027,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Reisenberg",
+    "population": 1689,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Retz",
+    "population": 4249,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Retzbach",
+    "population": 1002,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ringelsdorf-Niederabsdorf",
+    "population": 1260,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rohr im Gebirge",
+    "population": 476,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rohrau",
+    "population": 1609,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rohrbach an der Gölsen",
+    "population": 1556,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Röhrenbach",
+    "population": 522,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rohrendorf bei Krems",
+    "population": 2091,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Röschitz",
+    "population": 1052,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rosenburg-Mold",
+    "population": 856,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rossatz-Arnsdorf",
+    "population": 1065,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ruprechtshofen",
+    "population": 2315,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rußbach",
+    "population": 1424,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sallingberg",
+    "population": 1291,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Scharndorf",
+    "population": 1159,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Scheibbs",
+    "population": 4196,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Scheiblingkirchen-Thernberg",
+    "population": 1864,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schollach",
+    "population": 976,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schönau an der Triesting",
+    "population": 2123,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schönbach",
+    "population": 798,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schönberg am Kamp",
+    "population": 1903,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schönbühel-Aggsbach",
+    "population": 981,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schönkirchen-Reyersdorf",
+    "population": 1963,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schottwien",
+    "population": 660,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schrattenbach",
+    "population": 363,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schrattenberg",
+    "population": 810,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schrattenthal",
+    "population": 868,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schrems",
+    "population": 5404,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwadorf",
+    "population": 2180,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwarzau am Steinfeld",
+    "population": 1924,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwarzau im Gebirge",
+    "population": 644,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwarzenau",
+    "population": 1532,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwarzenbach",
+    "population": 941,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwarzenbach an der Pielach",
+    "population": 369,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwechat",
+    "population": 18026,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schweiggers",
+    "population": 2004,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Seebenstein",
+    "population": 1401,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Seefeld-Kadolz",
+    "population": 935,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Seibersdorf",
+    "population": 1466,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Seitenstetten",
+    "population": 3394,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Semmering",
+    "population": 544,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Senftenberg",
+    "population": 1977,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sieghartskirchen",
+    "population": 7528,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sierndorf",
+    "population": 3933,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sigmundsherberg",
+    "population": 1651,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sitzenberg-Reidling",
+    "population": 2102,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sitzendorf an der Schmida",
+    "population": 2162,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sollenau",
+    "population": 5038,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sommerein",
+    "population": 1947,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sonntagberg",
+    "population": 3829,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sooß",
+    "population": 1050,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Spannberg",
+    "population": 1010,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Spillern",
+    "population": 2222,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Spitz",
+    "population": 1620,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Aegyd am Neuwalde",
+    "population": 1901,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Andrä-Wördern",
+    "population": 7870,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Anton an der Jeßnitz",
+    "population": 1211,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Bernhard-Frauenhofen",
+    "population": 1299,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Corona am Wechsel",
+    "population": 390,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Egyden am Steinfeld",
+    "population": 1924,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Georgen am Reith",
+    "population": 578,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Georgen am Ybbsfelde",
+    "population": 2886,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Georgen an der Leys",
+    "population": 1334,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Leonhard am Forst",
+    "population": 2989,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Leonhard am Hornerwald",
+    "population": 1119,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Margarethen an der Sierning",
+    "population": 1013,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Martin",
+    "population": 1124,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Martin-Karlsbach",
+    "population": 1659,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Oswald",
+    "population": 1124,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Pantaleon-Erla",
+    "population": 2587,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Peter in der Au",
+    "population": 5119,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Pölten",
+    "population": 54649,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "St. Valentin",
+    "population": 9340,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Veit an der Gölsen",
+    "population": 3915,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Staatz",
+    "population": 1933,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Statzendorf",
+    "population": 1362,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Steinakirchen am Forst",
+    "population": 2274,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Stetteldorf am Wagram",
+    "population": 1041,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Stetten",
+    "population": 1357,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Stockerau",
+    "population": 16916,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Stössing",
+    "population": 838,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Straning-Grafenberg",
+    "population": 781,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Straß im Straßertale",
+    "population": 1678,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Strasshof an der Nordbahn",
+    "population": 10009,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Stratzing",
+    "population": 827,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Strengberg",
+    "population": 2055,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Stronsdorf",
+    "population": 1584,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sulz im Weinviertel",
+    "population": 1189,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Tattendorf",
+    "population": 1439,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Teesdorf",
+    "population": 1822,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ternitz",
+    "population": 14632,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Texingtal",
+    "population": 1615,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Thaya",
+    "population": 1380,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Theresienfeld",
+    "population": 3485,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Thomasberg",
+    "population": 1284,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Traisen",
+    "population": 3453,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Traiskirchen",
+    "population": 18858,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Traismauer",
+    "population": 6224,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Trattenbach",
+    "population": 545,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Trautmannsdorf an der Leitha",
+    "population": 2886,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Trumau",
+    "population": 3640,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Tulbing",
+    "population": 2971,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Tulln an der Donau",
+    "population": 16197,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Tullnerbach",
+    "population": 2782,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Türnitz",
+    "population": 1912,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ulrichskirchen-Schleinbach",
+    "population": 2630,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Unserfrau-Altweitra",
+    "population": 1004,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Untersiebenbrunn",
+    "population": 1736,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Unterstinkenbrunn",
+    "population": 560,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Velm-Götzendorf",
+    "population": 735,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Viehdorf",
+    "population": 1372,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Vitis",
+    "population": 2678,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Vösendorf",
+    "population": 6990,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waidhofen an der Thaya",
+    "population": 5501,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waidhofen an der Thaya-Land",
+    "population": 1266,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waidhofen an der Ybbs",
+    "population": 11333,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waidmannsfeld",
+    "population": 1515,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waldegg",
+    "population": 2048,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waldenstein",
+    "population": 1195,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waldhausen",
+    "population": 1215,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waldkirchen an der Thaya",
+    "population": 534,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wallsee-Sindelburg",
+    "population": 2178,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Walpersbach",
+    "population": 1125,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wang",
+    "population": 1355,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Warth",
+    "population": 1512,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wartmannstetten",
+    "population": 1605,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weiden an der March",
+    "population": 991,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weikendorf",
+    "population": 2029,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weikersdorf am Steinfelde",
+    "population": 1066,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weinburg",
+    "population": 1337,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weinzierl am Walde",
+    "population": 1240,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weissenbach an der Triesting",
+    "population": 1727,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weißenkirchen in der Wachau",
+    "population": 1429,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weistrach",
+    "population": 2216,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weiten",
+    "population": 1094,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weitersfeld",
+    "population": 1576,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weitra",
+    "population": 2693,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wiener Neudorf",
+    "population": 9405,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wiener Neustadt",
+    "population": 44820,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wienerwald",
+    "population": 2858,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wieselburg",
+    "population": 4143,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wieselburg-Land",
+    "population": 3311,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wiesmath",
+    "population": 1509,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wildendürnbach",
+    "population": 1574,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wilfersdorf",
+    "population": 2175,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wilhelmsburg",
+    "population": 6557,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Willendorf",
+    "population": 971,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wimpassing im Schwarzatale",
+    "population": 1616,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Windigsteig",
+    "population": 945,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Winklarn",
+    "population": 1683,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Winzendorf-Muthmannsdorf",
+    "population": 1877,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wölbling",
+    "population": 2571,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wolfpassing",
+    "population": 1616,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wolfsbach",
+    "population": 2011,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wolfsgraben",
+    "population": 1700,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wolfsthal",
+    "population": 1032,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wolkersdorf im Weinviertel",
+    "population": 7201,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wöllersdorf-Steinabrückl",
+    "population": 4473,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wullersdorf",
+    "population": 2385,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Würflach",
+    "population": 1592,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Würmla",
+    "population": 1429,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ybbs an der Donau",
+    "population": 5653,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ybbsitz",
+    "population": 3445,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Yspertal",
+    "population": 2007,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zeillern",
+    "population": 1865,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zeiselmauer-Wolfpassing",
+    "population": 2302,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zelking-Matzleinsdorf",
+    "population": 1214,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zellerndorf",
+    "population": 2432,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ziersdorf",
+    "population": 3446,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zillingdorf",
+    "population": 2030,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zistersdorf",
+    "population": 5391,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zöbern",
+    "population": 1423,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zwentendorf an der Donau",
+    "population": 3982,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zwettl",
+    "population": 10908,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zwölfaxing",
+    "population": 1744,
+    "bezirk": "Niederösterreich"
+  }
+]

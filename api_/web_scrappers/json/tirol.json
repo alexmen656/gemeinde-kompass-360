@@ -1,0 +1,1392 @@
+[
+  {
+    "name": "Abfaltersbach",
+    "population": 630,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Absam",
+    "population": 7112,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Achenkirch",
+    "population": 2185,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ainet",
+    "population": 936,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Aldrans",
+    "population": 2684,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Alpbach",
+    "population": 2561,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Amlach",
+    "population": 489,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ampass",
+    "population": 1827,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Angath",
+    "population": 1008,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Angerberg",
+    "population": 1890,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Anras",
+    "population": 1233,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Arzl im Pitztal",
+    "population": 3134,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Aschau im Zillertal",
+    "population": 1866,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Assling",
+    "population": 1769,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Aurach bei Kitzbühel",
+    "population": 1130,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Außervillgraten",
+    "population": 760,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Axams",
+    "population": 5996,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Bach",
+    "population": 614,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Bad Häring",
+    "population": 2777,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Baumkirchen",
+    "population": 1284,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Berwang",
+    "population": 565,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Biberwier",
+    "population": 628,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Bichlbach",
+    "population": 788,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Birgitz",
+    "population": 1419,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Brandberg",
+    "population": 354,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Brandenberg",
+    "population": 1523,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Breitenbach am Inn",
+    "population": 3475,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Breitenwang",
+    "population": 1423,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Brixen im Thale",
+    "population": 2639,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Brixlegg",
+    "population": 2970,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Bruck am Ziller",
+    "population": 1098,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Buch in Tirol",
+    "population": 2548,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Dölsach",
+    "population": 2338,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ebbs",
+    "population": 5601,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Eben am Achensee",
+    "population": 3180,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ehenbichl",
+    "population": 824,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ehrwald",
+    "population": 2593,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Elbigenalp",
+    "population": 889,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ellbögen",
+    "population": 1109,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ellmau",
+    "population": 2828,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Elmen",
+    "population": 373,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Erl",
+    "population": 1540,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Faggen",
+    "population": 383,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fendels",
+    "population": 259,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fieberbrunn",
+    "population": 4287,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Finkenberg",
+    "population": 1421,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fiss",
+    "population": 1009,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Flaurling",
+    "population": 1285,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fließ",
+    "population": 3019,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Flirsch",
+    "population": 990,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Forchach",
+    "population": 259,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fritzens",
+    "population": 2148,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fügen",
+    "population": 4169,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fügenberg",
+    "population": 1405,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Fulpmes",
+    "population": 4378,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gaimberg",
+    "population": 822,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gallzein",
+    "population": 668,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Galtür",
+    "population": 765,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gerlos",
+    "population": 790,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gerlosberg",
+    "population": 465,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gnadenwald",
+    "population": 826,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Going am Wilden Kaiser",
+    "population": 1849,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Götzens",
+    "population": 4062,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gramais",
+    "population": 45,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Grän",
+    "population": 599,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gries am Brenner",
+    "population": 1361,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gries im Sellrain",
+    "population": 610,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Grins",
+    "population": 1398,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Grinzens",
+    "population": 1399,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Gschnitz",
+    "population": 434,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Haiming",
+    "population": 4659,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hainzenberg",
+    "population": 731,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hall in Tirol",
+    "population": 13897,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hart im Zillertal",
+    "population": 1587,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Häselgehr",
+    "population": 690,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hatting",
+    "population": 1444,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Heinfels",
+    "population": 977,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Heiterwang",
+    "population": 532,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hinterhornbach",
+    "population": 92,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hippach",
+    "population": 1455,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hochfilzen",
+    "population": 1196,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Höfen",
+    "population": 1200,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Holzgau",
+    "population": 412,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hopfgarten im Brixental",
+    "population": 5677,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Hopfgarten in Defereggen",
+    "population": 704,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Imst",
+    "population": 10504,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Imsterberg",
+    "population": 777,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Innervillgraten",
+    "population": 938,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Innsbruck",
+    "population": 132493,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Inzing",
+    "population": 3847,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ischgl",
+    "population": 1593,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Iselsberg-Stronach",
+    "population": 596,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Itter",
+    "population": 1150,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Jenbach",
+    "population": 7120,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Jerzens",
+    "population": 975,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Jochberg",
+    "population": 1577,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Jungholz",
+    "population": 301,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kaisers",
+    "population": 76,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kals am Großglockner",
+    "population": 1142,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kaltenbach",
+    "population": 1313,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kappl",
+    "population": 2617,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Karres",
+    "population": 609,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Karrösten",
+    "population": 676,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kartitsch",
+    "population": 803,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kaunerberg",
+    "population": 437,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kaunertal",
+    "population": 597,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kauns",
+    "population": 502,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kematen in Tirol",
+    "population": 2931,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kirchberg in Tirol",
+    "population": 5245,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kirchbichl",
+    "population": 5855,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kirchdorf in Tirol",
+    "population": 3936,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kitzbühel",
+    "population": 8272,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kolsass",
+    "population": 1626,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kolsassberg",
+    "population": 817,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kössen",
+    "population": 4346,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kramsach",
+    "population": 4891,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kufstein",
+    "population": 19223,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Kundl",
+    "population": 4464,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ladis",
+    "population": 531,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Landeck",
+    "population": 7725,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Längenfeld",
+    "population": 4611,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Langkampfen",
+    "population": 4108,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Lans",
+    "population": 1096,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Lavant",
+    "population": 320,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Lechaschau",
+    "population": 2108,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Leisach",
+    "population": 729,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Lermoos",
+    "population": 1156,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Leutasch",
+    "population": 2380,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Lienz",
+    "population": 11844,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mariastein",
+    "population": 362,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Matrei am Brenner",
+    "population": 959,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Matrei in Osttirol",
+    "population": 4667,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mayrhofen",
+    "population": 3858,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mieders",
+    "population": 1861,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mieming",
+    "population": 3698,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mils",
+    "population": 4377,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mils bei Imst",
+    "population": 559,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mötz",
+    "population": 1219,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mühlbachl",
+    "population": 1393,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Münster",
+    "population": 3317,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Musau",
+    "population": 391,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Mutters",
+    "population": 2202,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Namlos",
+    "population": 72,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Nassereith",
+    "population": 2119,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Natters",
+    "population": 2020,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Nauders",
+    "population": 1542,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Navis",
+    "population": 2004,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Nesselwängle",
+    "population": 455,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Neustift im Stubaital",
+    "population": 4747,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Niederndorf",
+    "population": 2736,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Niederndorferberg",
+    "population": 706,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Nikolsdorf",
+    "population": 894,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Nußdorf-Debant",
+    "population": 3325,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Oberhofen im Inntal",
+    "population": 1857,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Oberlienz",
+    "population": 1485,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Obernberg am Brenner",
+    "population": 363,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Oberndorf in Tirol",
+    "population": 2194,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Oberperfuss",
+    "population": 3043,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Obertilliach",
+    "population": 666,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Obsteig",
+    "population": 1316,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Oetz",
+    "population": 2402,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Patsch",
+    "population": 1014,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pettnau",
+    "population": 1047,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pettneu am Arlberg",
+    "population": 1494,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pfaffenhofen",
+    "population": 1102,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pfafflar",
+    "population": 112,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pflach",
+    "population": 1397,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pfons",
+    "population": 1205,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pfunds",
+    "population": 2602,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pians",
+    "population": 813,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pill",
+    "population": 1174,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Pinswang",
+    "population": 412,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Polling in Tirol",
+    "population": 1130,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Prägraten am Großvenediger",
+    "population": 1149,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Prutz",
+    "population": 1825,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Radfeld",
+    "population": 2495,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ramsau im Zillertal",
+    "population": 1617,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ranggen",
+    "population": 1072,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Rattenberg",
+    "population": 411,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Reith bei Kitzbühel",
+    "population": 1662,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Reith bei Seefeld",
+    "population": 1370,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Reith im Alpbachtal",
+    "population": 2722,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Rettenschöss",
+    "population": 513,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Reutte",
+    "population": 6704,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ried im Oberinntal",
+    "population": 1261,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Ried im Zillertal",
+    "population": 1280,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Rietz",
+    "population": 2313,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Rinn",
+    "population": 1877,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Rohrberg",
+    "population": 574,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Roppen",
+    "population": 1800,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Rum",
+    "population": 9190,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sautens",
+    "population": 1601,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Scharnitz",
+    "population": 1403,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schattwald",
+    "population": 437,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Scheffau am Wilden Kaiser",
+    "population": 1449,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schlaiten",
+    "population": 474,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schlitters",
+    "population": 1481,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schmirn",
+    "population": 872,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schönberg im Stubaital",
+    "population": 1101,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schönwies",
+    "population": 1697,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schwaz",
+    "population": 13728,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schwendau",
+    "population": 1725,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schwendt",
+    "population": 823,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Schwoich",
+    "population": 2515,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "See",
+    "population": 1265,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Seefeld in Tirol",
+    "population": 3440,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sellrain",
+    "population": 1333,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Serfaus",
+    "population": 1134,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sillian",
+    "population": 2051,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Silz",
+    "population": 2560,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sistrans",
+    "population": 2255,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sölden",
+    "population": 3145,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Söll",
+    "population": 3631,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Spiss",
+    "population": 114,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "St Anton am Arlberg",
+    "population": 2372,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Jakob in Defereggen",
+    "population": 848,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Jakob in Haus",
+    "population": 791,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Johann im Walde",
+    "population": 285,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "St. Johann in Tyrol",
+    "population": 9428,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Leonhard im Pitztal",
+    "population": 1382,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Sigmund im Sellrain",
+    "population": 175,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Ulrich am Pillersee",
+    "population": 1819,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Sankt Veit in Defereggen",
+    "population": 670,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Stams",
+    "population": 1495,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Stans",
+    "population": 2035,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Stanz bei Landeck",
+    "population": 577,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Stanzach",
+    "population": 455,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Steeg",
+    "population": 671,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Steinach am Brenner",
+    "population": 3622,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Steinberg am Rofan",
+    "population": 286,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Strass im Zillertal",
+    "population": 836,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Strassen",
+    "population": 808,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Strengen",
+    "population": 1213,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Stumm",
+    "population": 1885,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Stummerberg",
+    "population": 844,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tannheim",
+    "population": 1067,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tarrenz",
+    "population": 2744,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Telfes",
+    "population": 1570,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Telfs",
+    "population": 15747,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Terfens",
+    "population": 2184,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Thaur",
+    "population": 3979,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Thiersee",
+    "population": 2990,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Thurn",
+    "population": 608,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tobadill",
+    "population": 516,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tösens",
+    "population": 728,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Trins",
+    "population": 1277,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tristach",
+    "population": 1437,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tulfes",
+    "population": 1550,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Tux",
+    "population": 1941,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Uderns",
+    "population": 1845,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Umhausen",
+    "population": 3220,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Unterperfuss",
+    "population": 224,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Untertilliach",
+    "population": 237,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Vals",
+    "population": 532,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Vils",
+    "population": 1535,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Virgen",
+    "population": 2199,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Volders",
+    "population": 4464,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Völs",
+    "population": 6738,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Vomp",
+    "population": 5146,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Vorderhornbach",
+    "population": 245,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Waidring",
+    "population": 2019,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Walchsee",
+    "population": 1878,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wängle",
+    "population": 931,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wattenberg",
+    "population": 739,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wattens",
+    "population": 7881,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Weer",
+    "population": 1539,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Weerberg",
+    "population": 2482,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Weißenbach am Lech",
+    "population": 1250,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wenns",
+    "population": 2044,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Westendorf",
+    "population": 3652,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wiesing",
+    "population": 2124,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wildermieming",
+    "population": 935,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wildschönau",
+    "population": 4242,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Wörgl",
+    "population": 13811,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Zams",
+    "population": 3409,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Zell am Ziller",
+    "population": 1758,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Zellberg",
+    "population": 648,
+    "bezirk": "Tirol"
+  },
+  {
+    "name": "Zöblen",
+    "population": 231,
+    "bezirk": "Tirol"
+  }
+]

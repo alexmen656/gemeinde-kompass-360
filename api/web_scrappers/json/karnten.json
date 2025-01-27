@@ -1,0 +1,657 @@
+[
+  {
+    "name": "Afritz am See",
+    "population": 1429,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Albeck",
+    "population": 995,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Althofen",
+    "population": 4759,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Arnoldstein",
+    "population": 7096,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Arriach",
+    "population": 1349,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Bad Bleiberg",
+    "population": 2283,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Bad Kleinkirchheim",
+    "population": 1723,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Bad Sankt Leonhard im Lavanttal",
+    "population": 4375,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Baldramsdorf",
+    "population": 1866,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Berg im Drautal",
+    "population": 1278,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Bleiburg",
+    "population": 4072,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Brückl",
+    "population": 2717,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Dellach",
+    "population": 1231,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Dellach im Drautal",
+    "population": 1595,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Deutsch-Griffen",
+    "population": 908,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Diex",
+    "population": 825,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Ebenthal in Kärnten",
+    "population": 7851,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Eberndorf",
+    "population": 5862,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Eberstein",
+    "population": 1271,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Eisenkappel-Vellach",
+    "population": 2306,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Feistritz an der Gail",
+    "population": 627,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Feistritz im Rosental",
+    "population": 2506,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Feistritz ob Bleiburg",
+    "population": 2185,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Feld am See",
+    "population": 1094,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Feldkirchen in Kärnten",
+    "population": 14198,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Ferlach",
+    "population": 7141,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Ferndorf",
+    "population": 2156,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Finkenstein am Faaker See",
+    "population": 9003,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Flattach",
+    "population": 1200,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Frantschach-Sankt Gertraud",
+    "population": 2605,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Frauenstein",
+    "population": 3597,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Fresach",
+    "population": 1207,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Friesach",
+    "population": 4947,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Gallizien",
+    "population": 1761,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Gitschtal",
+    "population": 1261,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Glanegg",
+    "population": 1869,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Globasnitz",
+    "population": 1620,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Glödnitz",
+    "population": 807,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Gmünd in Kärnten",
+    "population": 2550,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Gnesau",
+    "population": 1034,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Grafenstein",
+    "population": 2884,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Greifenburg",
+    "population": 1736,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Griffen",
+    "population": 3466,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Großkirchheim",
+    "population": 1337,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Gurk",
+    "population": 1226,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Guttaring",
+    "population": 1470,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Heiligenblut am Großglockner",
+    "population": 1020,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Hermagor-Pressegger See",
+    "population": 6824,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Himmelberg",
+    "population": 2287,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Hohenthurn",
+    "population": 851,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Hüttenberg",
+    "population": 1414,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Irschen",
+    "population": 2022,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Kappel am Krappfeld",
+    "population": 1951,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Keutschach am See",
+    "population": 2450,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Kirchbach",
+    "population": 2599,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Klagenfurt am Wörthersee",
+    "population": 100369,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Kleblach-Lind",
+    "population": 1174,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Klein Sankt Paul",
+    "population": 1820,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Kötschach-Mauthen",
+    "population": 3348,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Köttmannsdorf",
+    "population": 3004,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Krems in Kärnten",
+    "population": 1679,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Krumpendorf am Wörthersee",
+    "population": 3497,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Lavamünd",
+    "population": 2941,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Lendorf",
+    "population": 1712,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Lesachtal",
+    "population": 1318,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Liebenfels",
+    "population": 3329,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Ludmannsdorf",
+    "population": 1780,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Lurnfeld",
+    "population": 2599,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Magdalensberg",
+    "population": 3455,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Mallnitz",
+    "population": 786,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Malta",
+    "population": 1986,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Maria Rain",
+    "population": 2584,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Maria Saal",
+    "population": 3835,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Maria Wörth",
+    "population": 1611,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Metnitz",
+    "population": 2011,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Micheldorf",
+    "population": 1000,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Millstatt am See",
+    "population": 3460,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Mölbling",
+    "population": 1315,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Moosburg",
+    "population": 4482,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Mörtschach",
+    "population": 816,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Mühldorf",
+    "population": 1007,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Neuhaus",
+    "population": 1040,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Nötsch im Gailtal",
+    "population": 2233,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Oberdrauburg",
+    "population": 1172,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Obervellach",
+    "population": 2201,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Ossiach",
+    "population": 785,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Paternion",
+    "population": 5819,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Poggersdorf",
+    "population": 3193,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Pörtschach am Wörthersee",
+    "population": 2751,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Preitenegg",
+    "population": 932,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Radenthein",
+    "population": 5831,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Rangersdorf",
+    "population": 1736,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Reichenau",
+    "population": 1822,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Reichenfels",
+    "population": 1851,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Reißeck",
+    "population": 2145,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Rennweg am Katschberg",
+    "population": 1754,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Rosegg",
+    "population": 1832,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Ruden",
+    "population": 1530,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Schiefling am Wörthersee",
+    "population": 2651,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Seeboden am Millstätter See",
+    "population": 6418,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sittersdorf",
+    "population": 2011,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Spittal an der Drau",
+    "population": 15413,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Andrä",
+    "population": 9957,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Georgen am Längsee",
+    "population": 3648,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Georgen im Lavanttal",
+    "population": 1981,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Jakob im Rosental",
+    "population": 4245,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Kanzian am Klopeiner See",
+    "population": 4403,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Margareten im Rosental",
+    "population": 1099,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Paul im Lavanttal",
+    "population": 3303,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Stefan im Gailtal",
+    "population": 1593,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Urban",
+    "population": 1544,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Sankt Veit an der Glan",
+    "population": 12547,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Stall",
+    "population": 1575,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Steindorf am Ossiacher See",
+    "population": 3771,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Steinfeld",
+    "population": 2051,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Steuerberg",
+    "population": 1662,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Stockenboi",
+    "population": 1604,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Straßburg",
+    "population": 2095,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Techelsberg am Wörther See",
+    "population": 2203,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Trebesing",
+    "population": 1158,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Treffen am Ossiacher See",
+    "population": 4455,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Velden am Wörther See",
+    "population": 8954,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Villach",
+    "population": 61879,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Völkermarkt",
+    "population": 10946,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Weißensee",
+    "population": 759,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Weißenstein",
+    "population": 2961,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Weitensfeld im Gurktal",
+    "population": 2091,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Wernberg",
+    "population": 5547,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Winklern",
+    "population": 1200,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Wolfsberg",
+    "population": 25035,
+    "bezirk": "Kärnten"
+  },
+  {
+    "name": "Zell",
+    "population": 609,
+    "bezirk": "Kärnten"
+  }
+]

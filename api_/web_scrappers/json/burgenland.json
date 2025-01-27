@@ -1,0 +1,852 @@
+[
+  {
+    "name": "Andau",
+    "population": 2285,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Antau",
+    "population": 758,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Apetlon",
+    "population": 1760,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Bad Sauerbrunn",
+    "population": 2219,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Bad Tatzmannsdorf",
+    "population": 1554,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Badersdorf",
+    "population": 287,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Baumgarten",
+    "population": 894,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Bernstein",
+    "population": 2123,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Bildein",
+    "population": 343,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Bocksdorf",
+    "population": 813,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Breitenbrunn am Neusiedler See",
+    "population": 1938,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Bruckneudorf",
+    "population": 3026,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Burgauberg-Neudauberg",
+    "population": 1360,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Deutsch Jahrndorf",
+    "population": 611,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Deutsch Kaltenbrunn",
+    "population": 1721,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Deutsch Schützen-Eisenberg",
+    "population": 1126,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Deutschkreutz",
+    "population": 3088,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Donnerskirchen",
+    "population": 1810,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Draßburg",
+    "population": 1199,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Draßmarkt",
+    "population": 1388,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Eberau",
+    "population": 911,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Edelstal",
+    "population": 747,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Eisenstadt",
+    "population": 14476,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Eltendorf",
+    "population": 954,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Forchtenstein",
+    "population": 2796,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Frankenau-Unterpullendorf",
+    "population": 1109,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Frauenkirchen",
+    "population": 2862,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Gattendorf",
+    "population": 1332,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Gerersdorf-Sulz",
+    "population": 1014,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Gols",
+    "population": 3835,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Grafenschachen",
+    "population": 1225,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Großhöflein",
+    "population": 2048,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Großmürbisch",
+    "population": 242,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Großpetersdorf",
+    "population": 3531,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Großwarasdorf",
+    "population": 1381,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Güssing",
+    "population": 3655,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Güttenbach",
+    "population": 898,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Hackerberg",
+    "population": 357,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Halbturn",
+    "population": 1901,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Hannersdorf",
+    "population": 758,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Heiligenbrunn",
+    "population": 759,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Heiligenkreuz im Lafnitztal",
+    "population": 1231,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Heugraben",
+    "population": 216,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Hirm",
+    "population": 1009,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Horitschon",
+    "population": 1861,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Hornstein",
+    "population": 3012,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Illmitz",
+    "population": 2385,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Inzenhof",
+    "population": 334,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Jabing",
+    "population": 734,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Jennersdorf",
+    "population": 4096,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Jois",
+    "population": 1612,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kaisersdorf",
+    "population": 620,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kemeten",
+    "population": 1493,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kittsee",
+    "population": 3162,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kleinmürbisch",
+    "population": 226,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Klingenbach",
+    "population": 1172,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kobersdorf",
+    "population": 1883,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kohfidisch",
+    "population": 1462,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Königsdorf",
+    "population": 720,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Krensdorf",
+    "population": 642,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Kukmirn",
+    "population": 2012,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Lackenbach",
+    "population": 1167,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Lackendorf",
+    "population": 604,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Leithaprodersdorf",
+    "population": 1193,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Litzelsdorf",
+    "population": 1181,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Lockenhaus",
+    "population": 2066,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Loipersbach im Burgenland",
+    "population": 1229,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Loipersdorf-Kitzladen",
+    "population": 1319,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Loretto",
+    "population": 475,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Lutzmannsburg",
+    "population": 861,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mannersdorf an der Rabnitz",
+    "population": 1795,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mariasdorf",
+    "population": 1145,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Markt Allhau",
+    "population": 1845,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Markt Neuhodis",
+    "population": 658,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Markt Sankt Martin",
+    "population": 1198,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Marz",
+    "population": 2073,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mattersburg",
+    "population": 7349,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Minihof-Liebau",
+    "population": 1054,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mischendorf",
+    "population": 1589,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mogersdorf",
+    "population": 1164,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mönchhof",
+    "population": 2236,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mörbisch am See",
+    "population": 2261,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Moschendorf",
+    "population": 400,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Mühlgraben",
+    "population": 396,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Müllendorf",
+    "population": 1397,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neckenmarkt",
+    "population": 1680,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neuberg im Burgenland",
+    "population": 978,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neudörfl",
+    "population": 4564,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neufeld an der Leitha",
+    "population": 3418,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neuhaus am Klausenbach",
+    "population": 921,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neusiedl am See",
+    "population": 8235,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neustift an der Lafnitz",
+    "population": 793,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neustift bei Güssing",
+    "population": 474,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Neutal",
+    "population": 1094,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Nickelsdorf",
+    "population": 1772,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Nikitsch",
+    "population": 1405,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oberdorf im Burgenland",
+    "population": 996,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oberloisdorf",
+    "population": 806,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oberpullendorf",
+    "population": 3188,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oberschützen",
+    "population": 2429,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oberwart",
+    "population": 7572,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oggau am Neusiedler See",
+    "population": 1739,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Olbendorf",
+    "population": 1449,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Ollersdorf im Burgenland",
+    "population": 933,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Oslip",
+    "population": 1243,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Pama",
+    "population": 1204,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Pamhagen",
+    "population": 1623,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Parndorf",
+    "population": 4689,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Pilgersdorf",
+    "population": 1656,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Pinkafeld",
+    "population": 5779,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Piringsdorf",
+    "population": 847,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Podersdorf am See",
+    "population": 2135,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Pöttelsdorf",
+    "population": 735,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Pöttsching",
+    "population": 2950,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Potzneusiedl",
+    "population": 602,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Purbach am Neusiedlersee",
+    "population": 2901,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Raiding",
+    "population": 865,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rauchwart",
+    "population": 446,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rechnitz",
+    "population": 3054,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Riedlingsdorf",
+    "population": 1619,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Ritzing",
+    "population": 902,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rohr im Burgenland",
+    "population": 380,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rohrbach bei Mattersburg",
+    "population": 2707,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rotenturm an der Pinka",
+    "population": 1445,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rudersdorf",
+    "population": 2176,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Rust",
+    "population": 1921,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Sankt Andrä am Zicksee",
+    "population": 1371,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Sankt Margarethen im Burgenland",
+    "population": 2636,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Sankt Martin an der Raab",
+    "population": 1959,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Sankt Michael im Burgenland",
+    "population": 963,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Schachendorf",
+    "population": 765,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Schandorf",
+    "population": 276,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Schattendorf",
+    "population": 2379,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Schützen am Gebirge",
+    "population": 1392,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Siegendorf",
+    "population": 2963,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Sieggraben",
+    "population": 1248,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Sigleß",
+    "population": 1183,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Stadtschlaining",
+    "population": 1980,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Stegersbach",
+    "population": 2658,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Steinberg-Dörfl",
+    "population": 1291,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Steinbrunn",
+    "population": 2614,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Stinatz",
+    "population": 1263,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Stoob",
+    "population": 1386,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Stotzing",
+    "population": 840,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Strem",
+    "population": 900,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Tadten",
+    "population": 1186,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Tobaj",
+    "population": 1372,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Trausdorf an der Wulka",
+    "population": 2064,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Tschanigraben",
+    "population": 62,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Unterfrauenhaid",
+    "population": 681,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Unterkohlstätten",
+    "population": 1029,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Unterrabnitz-Schwendgraben",
+    "population": 650,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Unterwart",
+    "population": 971,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wallern im Burgenland",
+    "population": 1702,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Weichselbaum",
+    "population": 720,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Weiden am See",
+    "population": 2426,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Weiden bei Rechnitz",
+    "population": 824,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Weingraben",
+    "population": 363,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Weppersdorf",
+    "population": 1826,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wiesen",
+    "population": 2691,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wiesfleck",
+    "population": 1158,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wimpassing an der Leitha",
+    "population": 1549,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Winden am See",
+    "population": 1315,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wolfau",
+    "population": 1436,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wörterberg",
+    "population": 488,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Wulkaprodersdorf",
+    "population": 1944,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Zagersdorf",
+    "population": 1027,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Zemendorf-Stöttera",
+    "population": 1268,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Zillingtal",
+    "population": 933,
+    "bezirk": "Burgenland"
+  },
+  {
+    "name": "Zurndorf",
+    "population": 2247,
+    "bezirk": "Burgenland"
+  }
+]

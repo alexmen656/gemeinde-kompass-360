@@ -1,0 +1,2862 @@
+[
+  {
+    "name": "Absdorf",
+    "population": 2087,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Achau",
+    "population": 1415,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Aderklaa",
+    "population": 207,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Aggsbach",
+    "population": 643,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Alberndorf im Pulkautal",
+    "population": 744,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Albrechtsberg an der Großen Krems",
+    "population": 1036,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Alland",
+    "population": 2622,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Allentsteig",
+    "population": 1835,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Allhartsberg",
+    "population": 2108,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Altenburg",
+    "population": 828,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Altendorf",
+    "population": 348,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Altenmarkt an der Triesting",
+    "population": 2113,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Altlengbach",
+    "population": 2927,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Altlichtenwarth",
+    "population": 769,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Altmelon",
+    "population": 862,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Amaliendorf-Aalfang",
+    "population": 1102,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Amstetten",
+    "population": 23656,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Andlersdorf",
+    "population": 137,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Angern an der March",
+    "population": 3384,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Annaberg",
+    "population": 533,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Arbesbach",
+    "population": 1638,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ardagger",
+    "population": 3511,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Artstetten-Pöbring",
+    "population": 1184,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Aschbach-Markt",
+    "population": 3811,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Aspangberg-Sankt Peter",
+    "population": 1888,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Aspang-Markt",
+    "population": 1816,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Asparn an der Zaya",
+    "population": 1865,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Asperhofen",
+    "population": 2206,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Atzenbrugg",
+    "population": 2948,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Au am Leithaberge",
+    "population": 934,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Auersthal",
+    "population": 1932,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Deutsch-Altenburg",
+    "population": 1765,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Erlach",
+    "population": 3084,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Fischau-Brunn",
+    "population": 3440,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Großpertholz",
+    "population": 1359,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Pirawarth",
+    "population": 1671,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Schönau",
+    "population": 721,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Traunstein",
+    "population": 1036,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bad Vöslau",
+    "population": 11961,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Baden bei Wien",
+    "population": 26286,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bärnkopf",
+    "population": 355,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Behamberg",
+    "population": 3387,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Berg",
+    "population": 861,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bergern im Dunkelsteinerwald",
+    "population": 1253,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bergland",
+    "population": 1909,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Berndorf",
+    "population": 9064,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bernhardsthal",
+    "population": 1604,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Biberbach",
+    "population": 2270,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Biedermannsdorf",
+    "population": 2988,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bisamberg",
+    "population": 4729,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bischofstetten",
+    "population": 1176,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Blindenmarkt",
+    "population": 2712,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Blumau-Neurißhof",
+    "population": 1840,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bockfließ",
+    "population": 1348,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Böheimkirchen",
+    "population": 5087,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Brand-Laaben",
+    "population": 1232,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Brand-Nagelberg",
+    "population": 1546,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Breitenau",
+    "population": 1576,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Breitenfurt bei Wien",
+    "population": 5853,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Breitenstein",
+    "population": 318,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bromberg",
+    "population": 1232,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bruck an der Leitha",
+    "population": 7988,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Brunn am Gebirge",
+    "population": 11864,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Brunn an der Wild",
+    "population": 826,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Buchbach",
+    "population": 330,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Burgschleinitz-Kühnring",
+    "population": 1360,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Bürg-Vöstenhof",
+    "population": 179,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Deutsch-Wagram",
+    "population": 8651,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Dietmanns",
+    "population": 1063,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Dobersberg",
+    "population": 1618,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Dorfstetten",
+    "population": 584,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Drasenhofen",
+    "population": 1109,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Drosendorf-Zissersdorf",
+    "population": 1213,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Drösing",
+    "population": 1132,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Droß",
+    "population": 983,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Dunkelsteinerwald",
+    "population": 2390,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Dürnkrut",
+    "population": 2267,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Dürnstein",
+    "population": 864,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ebenfurth",
+    "population": 3170,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ebenthal",
+    "population": 923,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ebergassing",
+    "population": 3904,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ebreichsdorf",
+    "population": 10942,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Echsenbach",
+    "population": 1256,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eckartsau",
+    "population": 1283,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Edlitz",
+    "population": 934,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eggenburg",
+    "population": 3540,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eggendorf",
+    "population": 4794,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eggern",
+    "population": 688,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eichgraben",
+    "population": 4614,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eisgarn",
+    "population": 684,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Emmersdorf an der Donau",
+    "population": 1778,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Engelhartstetten",
+    "population": 2055,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ennsdorf",
+    "population": 3031,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Enzenreith",
+    "population": 1946,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Enzersdorf an der Fischa",
+    "population": 3163,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Enzersfeld im Weinviertel",
+    "population": 1713,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Enzesfeld-Lindabrunn",
+    "population": 4174,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Erlauf",
+    "population": 1069,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ernstbrunn",
+    "population": 3213,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ernsthofen",
+    "population": 2230,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ertl",
+    "population": 1252,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Eschenau",
+    "population": 1306,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Euratsfeld",
+    "population": 2639,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Falkenstein",
+    "population": 457,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Fallbach",
+    "population": 819,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Feistritz am Wechsel",
+    "population": 1038,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Felixdorf",
+    "population": 4292,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Fels am Wagram",
+    "population": 2318,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ferschnitz",
+    "population": 1770,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Fischamend",
+    "population": 5583,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Frankenfels",
+    "population": 1975,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Furth an der Triesting",
+    "population": 862,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Furth bei Göttweig",
+    "population": 2956,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gaaden",
+    "population": 1624,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gablitz",
+    "population": 4968,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gaming",
+    "population": 3121,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gänserndorf",
+    "population": 11404,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gars am Kamp",
+    "population": 3534,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gastern",
+    "population": 1218,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gaubitsch",
+    "population": 894,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gaweinstal",
+    "population": 3947,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gedersdorf",
+    "population": 2184,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Geras",
+    "population": 1325,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gerasdorf bei Wien",
+    "population": 11155,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gerersdorf",
+    "population": 974,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gföhl",
+    "population": 3783,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gießhübl",
+    "population": 2335,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Glinzendorf",
+    "population": 295,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gloggnitz",
+    "population": 5916,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gmünd",
+    "population": 5375,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gnadendorf",
+    "population": 1127,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Göllersdorf",
+    "population": 2999,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Golling an der Erlauf",
+    "population": 1514,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Göpfritz an der Wild",
+    "population": 1826,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Göstling an der Ybbs",
+    "population": 2058,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Göttlesbrunn-Arbesthal",
+    "population": 1411,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Götzendorf an der Leitha",
+    "population": 2062,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grabern",
+    "population": 1642,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grafenbach-Sankt Valentin",
+    "population": 2264,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grafenegg",
+    "population": 3061,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grafenschlag",
+    "population": 853,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grafenwörth",
+    "population": 3132,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gramatneusiedl",
+    "population": 3461,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gresten",
+    "population": 1987,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gresten-Land",
+    "population": 1521,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grimmenstein",
+    "population": 1348,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Groß Gerungs",
+    "population": 4506,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großdietmanns",
+    "population": 2215,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großebersdorf",
+    "population": 2236,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großengersdorf",
+    "population": 1478,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Groß-Enzersdorf",
+    "population": 11206,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großgöttfritz",
+    "population": 1371,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großharras",
+    "population": 1116,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großhofen",
+    "population": 98,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großkrut",
+    "population": 1572,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großmugl",
+    "population": 1595,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großriedenthal",
+    "population": 899,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großrußbach",
+    "population": 2194,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großschönau",
+    "population": 1211,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Groß-Schweinbarth",
+    "population": 1245,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Groß-Siegharts",
+    "population": 2775,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Großweikersdorf",
+    "population": 3180,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Grünbach am Schneeberg",
+    "population": 1647,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gumpoldskirchen",
+    "population": 3899,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Günselsdorf",
+    "population": 1707,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Guntersdorf",
+    "population": 1145,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Guntramsdorf",
+    "population": 9179,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gutenbrunn",
+    "population": 536,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Gutenstein",
+    "population": 1268,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haag",
+    "population": 5548,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hadersdorf-Kammern",
+    "population": 2009,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hadres",
+    "population": 1685,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hafnerbach",
+    "population": 1672,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hagenbrunn",
+    "population": 2227,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haidershofen",
+    "population": 3670,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hainburg an der Donau",
+    "population": 6570,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hainfeld",
+    "population": 3726,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hardegg",
+    "population": 1309,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haringsee",
+    "population": 1179,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Harmannsdorf",
+    "population": 3951,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haslau-Maria Ellend",
+    "population": 2004,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haugschlag",
+    "population": 485,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haugsdorf",
+    "population": 1548,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Haunoldstein",
+    "population": 1160,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hausbrunn",
+    "population": 857,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hauskirchen",
+    "population": 1248,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hausleiten",
+    "population": 3784,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Heidenreichstein",
+    "population": 4010,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Heiligenkreuz",
+    "population": 1525,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Heldenberg",
+    "population": 1270,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hennersdorf bei Wien",
+    "population": 1541,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hernstein",
+    "population": 1542,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Herrnbaumgarten",
+    "population": 943,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Herzogenburg",
+    "population": 7771,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Himberg",
+    "population": 7375,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hinterbrühl",
+    "population": 4029,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hirschbach",
+    "population": 581,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hirtenberg",
+    "population": 2586,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hochleithen",
+    "population": 1166,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hochneukirchen-Gschaidt",
+    "population": 1633,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hochwolkersdorf",
+    "population": 1004,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hof am Leithaberge",
+    "population": 1549,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hofamt Priel",
+    "population": 1675,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Höflein",
+    "population": 1234,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Höflein an der Hohen Wand",
+    "population": 895,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hofstetten-Grünau",
+    "population": 2693,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hohe Wand",
+    "population": 1428,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hohenau an der March",
+    "population": 2738,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hohenberg",
+    "population": 1515,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hoheneich",
+    "population": 1424,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hohenruppersdorf",
+    "population": 910,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hohenwarth-Mühlbach am Manhartsberg",
+    "population": 1304,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hollabrunn",
+    "population": 11681,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hollenstein an der Ybbs",
+    "population": 1706,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hollenthon",
+    "population": 1018,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Horn",
+    "population": 6520,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hundsheim",
+    "population": 590,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Hürm",
+    "population": 1828,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Inzersdorf-Getzersdorf",
+    "population": 1581,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Irnfritz-Messern",
+    "population": 1409,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Jaidhof",
+    "population": 1225,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Japons",
+    "population": 733,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Jedenspeigen",
+    "population": 1064,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Judenau-Baumgarten",
+    "population": 2262,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kaltenleutgeben",
+    "population": 3276,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kapelln",
+    "population": 1381,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Karlstein an der Thaya",
+    "population": 1468,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Karlstetten",
+    "population": 2159,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kasten bei Böheimkirchen",
+    "population": 1409,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Katzelsdorf",
+    "population": 3257,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kaumberg",
+    "population": 1016,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kautzen",
+    "population": 1119,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kematen an der Ybbs",
+    "population": 2625,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kilb",
+    "population": 2543,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchberg am Wagram",
+    "population": 3670,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchberg am Walde",
+    "population": 1313,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchberg am Wechsel",
+    "population": 2505,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchberg an der Pielach",
+    "population": 3225,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchschlag",
+    "population": 621,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchschlag in der Buckligen Welt",
+    "population": 2889,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirchstetten",
+    "population": 2189,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kirnberg an der Mank",
+    "population": 1070,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Klausen-Leopoldsdorf",
+    "population": 1681,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Klein-Neusiedl",
+    "population": 907,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Klein-Pöchlarn",
+    "population": 991,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kleinzell",
+    "population": 831,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Klosterneuburg",
+    "population": 27058,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Königsbrunn am Wagram",
+    "population": 1319,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Königstetten",
+    "population": 2406,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Korneuburg",
+    "population": 12986,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kottes-Purk",
+    "population": 1485,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kottingbrunn",
+    "population": 7417,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Krems an der Donau",
+    "population": 24610,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kreuttal",
+    "population": 1429,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Kreuzstetten",
+    "population": 1541,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Krumau am Kamp",
+    "population": 759,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Krumbach",
+    "population": 2316,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Krummnußbaum",
+    "population": 1500,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Laa an der Thaya",
+    "population": 6280,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Laab im Walde",
+    "population": 1137,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ladendorf",
+    "population": 2298,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Langau",
+    "population": 673,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Langenlois",
+    "population": 7609,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Langenrohr",
+    "population": 2369,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Langenzersdorf",
+    "population": 8137,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Langschlag",
+    "population": 1782,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lanzendorf",
+    "population": 1886,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lanzenkirchen",
+    "population": 3983,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lassee",
+    "population": 2765,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Laxenburg",
+    "population": 2828,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Leiben",
+    "population": 1362,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Leitzersdorf",
+    "population": 1204,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lengenfeld",
+    "population": 1412,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Leobendorf",
+    "population": 4847,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Leobersdorf",
+    "population": 4915,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Leopoldsdorf",
+    "population": 5078,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lichtenau im Waldviertel",
+    "population": 2049,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lichtenegg",
+    "population": 1034,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lichtenwörth",
+    "population": 2727,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lilienfeld",
+    "population": 2833,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Litschau",
+    "population": 2259,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Loich",
+    "population": 603,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Loosdorf",
+    "population": 3794,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ludweis-Aigen",
+    "population": 914,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Lunz am See",
+    "population": 1806,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mailberg",
+    "population": 558,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Maissau",
+    "population": 1946,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mank",
+    "population": 3219,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mannersdorf am Leithagebirge",
+    "population": 4069,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mannsdorf an der Donau",
+    "population": 342,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Marbach an der Donau",
+    "population": 1677,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Marchegg",
+    "population": 2960,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Maria Enzersdorf",
+    "population": 8829,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Maria Laach am Jauerling",
+    "population": 916,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Maria Taferl",
+    "population": 887,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Maria Anzbach",
+    "population": 3055,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Maria Lanzendorf",
+    "population": 2129,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Markersdorf-Haindorf",
+    "population": 2083,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Markgrafneusiedl",
+    "population": 832,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Markt Piesting",
+    "population": 3007,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Martinsberg",
+    "population": 1096,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Matzendorf-Hölles",
+    "population": 2040,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Matzen-Raggendorf",
+    "population": 2794,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mauerbach",
+    "population": 3661,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mautern an der Donau",
+    "population": 3567,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Meiseldorf",
+    "population": 876,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Melk",
+    "population": 5529,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Michelbach",
+    "population": 915,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Michelhausen",
+    "population": 3113,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Miesenbach",
+    "population": 703,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mistelbach",
+    "population": 11559,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mitterbach am Erlaufsee",
+    "population": 499,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mitterndorf an der Fischa",
+    "population": 2685,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mödling",
+    "population": 20555,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mönichkirchen",
+    "population": 606,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Moorbad Harbach",
+    "population": 717,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Moosbrunn",
+    "population": 1777,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Muckendorf-Wipfing",
+    "population": 1573,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Muggendorf",
+    "population": 528,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Mühldorf",
+    "population": 1331,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Münchendorf",
+    "population": 2992,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Münichreith-Laimbach",
+    "population": 1662,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Nappersdorf-Kammersdorf",
+    "population": 1233,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Natschbach-Loipersbach",
+    "population": 1702,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neidling",
+    "population": 1461,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neudorf bei Staatz",
+    "population": 1430,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neuhofen an der Ybbs",
+    "population": 2930,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neulengbach",
+    "population": 8281,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neumarkt an der Ybbs",
+    "population": 1919,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neunkirchen",
+    "population": 12879,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neusiedl an der Zaya",
+    "population": 1252,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neustadtl an der Donau",
+    "population": 2143,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Neustift-Innermanzing",
+    "population": 1543,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Niederhollabrunn",
+    "population": 1534,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Niederleis",
+    "population": 861,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Nöchling",
+    "population": 1077,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Nußdorf ob der Traisen",
+    "population": 1758,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ober-Grafendorf",
+    "population": 4544,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Oberndorf an der Melk",
+    "population": 2957,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Obersiebenbrunn",
+    "population": 1708,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Oberwaltersdorf",
+    "population": 4618,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Obritzberg-Rust",
+    "population": 2342,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Oed-Öhling",
+    "population": 1884,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Opponitz",
+    "population": 947,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Orth an der Donau",
+    "population": 2086,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ottenschlag",
+    "population": 1002,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ottenthal",
+    "population": 544,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Otterthal",
+    "population": 592,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Palterndorf-Dobermannsdorf",
+    "population": 1333,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Parbasdorf",
+    "population": 169,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Paudorf",
+    "population": 2598,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Payerbach",
+    "population": 2076,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Perchtoldsdorf",
+    "population": 15047,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pernegg",
+    "population": 701,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pernersdorf",
+    "population": 1022,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pernitz",
+    "population": 2473,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Persenbeug-Gottsdorf",
+    "population": 2201,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Petronell-Carnuntum",
+    "population": 1245,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Petzenkirchen",
+    "population": 1311,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pfaffenschlag bei Waidhofen",
+    "population": 913,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pfaffstätten",
+    "population": 3551,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pillichsdorf",
+    "population": 1157,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pitten",
+    "population": 2697,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pöchlarn",
+    "population": 3912,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pöggstall",
+    "population": 2435,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pölla",
+    "population": 939,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pottendorf",
+    "population": 7049,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pottenstein",
+    "population": 2909,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Poysdorf",
+    "population": 5527,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Prellenkirchen",
+    "population": 1577,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pressbaum",
+    "population": 7559,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Prigglitz",
+    "population": 434,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Prinzersdorf",
+    "population": 1617,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Prottes",
+    "population": 1436,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pürschling",
+    "population": 1395,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Puchberg am Schneeberg",
+    "population": 2683,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Puchenstuben",
+    "population": 311,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pulkau",
+    "population": 1560,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Purgstall an der Erlauf",
+    "population": 5348,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Purkersdorf",
+    "population": 9701,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Pyhra",
+    "population": 3553,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Raabs an der Thaya",
+    "population": 2651,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Raach am Hochgebirge",
+    "population": 281,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Raasdorf",
+    "population": 645,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rabensburg",
+    "population": 1100,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rabenstein an der Pielach",
+    "population": 2560,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ramsau",
+    "population": 850,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Randegg",
+    "population": 1880,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rappottenstein",
+    "population": 1724,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rastenfeld",
+    "population": 1551,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rauchenwarth",
+    "population": 742,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ravelsbach",
+    "population": 1580,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Raxendorf",
+    "population": 1050,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Reichenau an der Rax",
+    "population": 2571,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Reingers",
+    "population": 635,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Reinsberg",
+    "population": 1027,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Reisenberg",
+    "population": 1689,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Retz",
+    "population": 4249,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Retzbach",
+    "population": 1002,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ringelsdorf-Niederabsdorf",
+    "population": 1260,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rohr im Gebirge",
+    "population": 476,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rohrau",
+    "population": 1609,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rohrbach an der Gölsen",
+    "population": 1556,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Röhrenbach",
+    "population": 522,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rohrendorf bei Krems",
+    "population": 2091,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Röschitz",
+    "population": 1052,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rosenburg-Mold",
+    "population": 856,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rossatz-Arnsdorf",
+    "population": 1065,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ruprechtshofen",
+    "population": 2315,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Rußbach",
+    "population": 1424,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sallingberg",
+    "population": 1291,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Scharndorf",
+    "population": 1159,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Scheibbs",
+    "population": 4196,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Scheiblingkirchen-Thernberg",
+    "population": 1864,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schollach",
+    "population": 976,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schönau an der Triesting",
+    "population": 2123,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schönbach",
+    "population": 798,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schönberg am Kamp",
+    "population": 1903,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schönbühel-Aggsbach",
+    "population": 981,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schönkirchen-Reyersdorf",
+    "population": 1963,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schottwien",
+    "population": 660,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schrattenbach",
+    "population": 363,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schrattenberg",
+    "population": 810,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schrattenthal",
+    "population": 868,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schrems",
+    "population": 5404,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwadorf",
+    "population": 2180,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwarzau am Steinfeld",
+    "population": 1924,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwarzau im Gebirge",
+    "population": 644,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwarzenau",
+    "population": 1532,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwarzenbach",
+    "population": 941,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwarzenbach an der Pielach",
+    "population": 369,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schwechat",
+    "population": 18026,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Schweiggers",
+    "population": 2004,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Seebenstein",
+    "population": 1401,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Seefeld-Kadolz",
+    "population": 935,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Seibersdorf",
+    "population": 1466,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Seitenstetten",
+    "population": 3394,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Semmering",
+    "population": 544,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Senftenberg",
+    "population": 1977,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sieghartskirchen",
+    "population": 7528,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sierndorf",
+    "population": 3933,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sigmundsherberg",
+    "population": 1651,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sitzenberg-Reidling",
+    "population": 2102,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sitzendorf an der Schmida",
+    "population": 2162,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sollenau",
+    "population": 5038,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sommerein",
+    "population": 1947,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sonntagberg",
+    "population": 3829,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sooß",
+    "population": 1050,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Spannberg",
+    "population": 1010,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Spillern",
+    "population": 2222,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Spitz",
+    "population": 1620,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Aegyd am Neuwalde",
+    "population": 1901,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Andrä-Wördern",
+    "population": 7870,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Anton an der Jeßnitz",
+    "population": 1211,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Bernhard-Frauenhofen",
+    "population": 1299,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Corona am Wechsel",
+    "population": 390,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Egyden am Steinfeld",
+    "population": 1924,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Georgen am Reith",
+    "population": 578,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Georgen am Ybbsfelde",
+    "population": 2886,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Georgen an der Leys",
+    "population": 1334,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Leonhard am Forst",
+    "population": 2989,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Leonhard am Hornerwald",
+    "population": 1119,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Margarethen an der Sierning",
+    "population": 1013,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Martin",
+    "population": 1124,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Martin-Karlsbach",
+    "population": 1659,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Oswald",
+    "population": 1124,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Pantaleon-Erla",
+    "population": 2587,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Peter in der Au",
+    "population": 5119,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Pölten",
+    "population": 54649,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "St. Valentin",
+    "population": 9340,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sankt Veit an der Gölsen",
+    "population": 3915,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Staatz",
+    "population": 1933,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Statzendorf",
+    "population": 1362,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Steinakirchen am Forst",
+    "population": 2274,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Stetteldorf am Wagram",
+    "population": 1041,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Stetten",
+    "population": 1357,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Stockerau",
+    "population": 16916,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Stössing",
+    "population": 838,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Straning-Grafenberg",
+    "population": 781,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Straß im Straßertale",
+    "population": 1678,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Strasshof an der Nordbahn",
+    "population": 10009,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Stratzing",
+    "population": 827,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Strengberg",
+    "population": 2055,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Stronsdorf",
+    "population": 1584,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Sulz im Weinviertel",
+    "population": 1189,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Tattendorf",
+    "population": 1439,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Teesdorf",
+    "population": 1822,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ternitz",
+    "population": 14632,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Texingtal",
+    "population": 1615,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Thaya",
+    "population": 1380,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Theresienfeld",
+    "population": 3485,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Thomasberg",
+    "population": 1284,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Traisen",
+    "population": 3453,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Traiskirchen",
+    "population": 18858,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Traismauer",
+    "population": 6224,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Trattenbach",
+    "population": 545,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Trautmannsdorf an der Leitha",
+    "population": 2886,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Trumau",
+    "population": 3640,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Tulbing",
+    "population": 2971,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Tulln an der Donau",
+    "population": 16197,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Tullnerbach",
+    "population": 2782,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Türnitz",
+    "population": 1912,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ulrichskirchen-Schleinbach",
+    "population": 2630,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Unserfrau-Altweitra",
+    "population": 1004,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Untersiebenbrunn",
+    "population": 1736,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Unterstinkenbrunn",
+    "population": 560,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Velm-Götzendorf",
+    "population": 735,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Viehdorf",
+    "population": 1372,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Vitis",
+    "population": 2678,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Vösendorf",
+    "population": 6990,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waidhofen an der Thaya",
+    "population": 5501,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waidhofen an der Thaya-Land",
+    "population": 1266,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waidhofen an der Ybbs",
+    "population": 11333,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waidmannsfeld",
+    "population": 1515,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waldegg",
+    "population": 2048,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waldenstein",
+    "population": 1195,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waldhausen",
+    "population": 1215,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Waldkirchen an der Thaya",
+    "population": 534,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wallsee-Sindelburg",
+    "population": 2178,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Walpersbach",
+    "population": 1125,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wang",
+    "population": 1355,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Warth",
+    "population": 1512,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wartmannstetten",
+    "population": 1605,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weiden an der March",
+    "population": 991,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weikendorf",
+    "population": 2029,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weikersdorf am Steinfelde",
+    "population": 1066,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weinburg",
+    "population": 1337,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weinzierl am Walde",
+    "population": 1240,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weissenbach an der Triesting",
+    "population": 1727,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weißenkirchen in der Wachau",
+    "population": 1429,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weistrach",
+    "population": 2216,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weiten",
+    "population": 1094,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weitersfeld",
+    "population": 1576,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Weitra",
+    "population": 2693,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wiener Neudorf",
+    "population": 9405,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wiener Neustadt",
+    "population": 44820,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wienerwald",
+    "population": 2858,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wieselburg",
+    "population": 4143,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wieselburg-Land",
+    "population": 3311,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wiesmath",
+    "population": 1509,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wildendürnbach",
+    "population": 1574,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wilfersdorf",
+    "population": 2175,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wilhelmsburg",
+    "population": 6557,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Willendorf",
+    "population": 971,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wimpassing im Schwarzatale",
+    "population": 1616,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Windigsteig",
+    "population": 945,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Winklarn",
+    "population": 1683,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Winzendorf-Muthmannsdorf",
+    "population": 1877,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wölbling",
+    "population": 2571,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wolfpassing",
+    "population": 1616,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wolfsbach",
+    "population": 2011,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wolfsgraben",
+    "population": 1700,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wolfsthal",
+    "population": 1032,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wolkersdorf im Weinviertel",
+    "population": 7201,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wöllersdorf-Steinabrückl",
+    "population": 4473,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Wullersdorf",
+    "population": 2385,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Würflach",
+    "population": 1592,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Würmla",
+    "population": 1429,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ybbs an der Donau",
+    "population": 5653,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ybbsitz",
+    "population": 3445,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Yspertal",
+    "population": 2007,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zeillern",
+    "population": 1865,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zeiselmauer-Wolfpassing",
+    "population": 2302,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zelking-Matzleinsdorf",
+    "population": 1214,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zellerndorf",
+    "population": 2432,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Ziersdorf",
+    "population": 3446,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zillingdorf",
+    "population": 2030,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zistersdorf",
+    "population": 5391,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zöbern",
+    "population": 1423,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zwentendorf an der Donau",
+    "population": 3982,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zwettl",
+    "population": 10908,
+    "bezirk": "Niederösterreich"
+  },
+  {
+    "name": "Zwölfaxing",
+    "population": 1744,
+    "bezirk": "Niederösterreich"
+  }
+]

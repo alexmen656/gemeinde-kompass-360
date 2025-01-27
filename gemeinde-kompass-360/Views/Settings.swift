@@ -8,11 +8,6 @@ struct SettingsView: View {
     var body: some View {
         NavigationView {
             Form {
-                Section(header: Text(LocalizedStringKey("Account"))) {
-                    Text(LocalizedStringKey("Profile"))
-                    Text(LocalizedStringKey("Security"))
-                }
-                
                 Section(header: Text(LocalizedStringKey("Preferences"))) {
                     Picker(LocalizedStringKey("Language"), selection: $selectedLanguage) {
                         Text(LocalizedStringKey("English")).tag("en")
@@ -25,13 +20,6 @@ struct SettingsView: View {
                         Bundle.setLanguage(newValue)
                         refreshID = UUID() // Trigger view refresh
                     }
-                }
-                
-                Section {
-                    Button(LocalizedStringKey("Sign Out")) {
-                        // Handle sign out
-                    }
-                    .foregroundColor(.red)
                 }
             }
             .id(refreshID) // Refresh the view when refreshID changes

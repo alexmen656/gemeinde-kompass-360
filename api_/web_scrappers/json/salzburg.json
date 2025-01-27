@@ -1,0 +1,597 @@
+[
+  {
+    "name": "Abtenau",
+    "population": 5842,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Adnet",
+    "population": 3557,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Altenmarkt im Pongau",
+    "population": 4218,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Anif",
+    "population": 4195,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Annaberg-Lungötz",
+    "population": 2203,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Anthering",
+    "population": 3734,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bad Gastein",
+    "population": 3980,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bad Hofgastein",
+    "population": 6914,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bad Vigaun",
+    "population": 2091,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bergheim",
+    "population": 5388,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Berndorf bei Salzburg",
+    "population": 1689,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bischofshofen",
+    "population": 10540,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bramberg am Wildkogel",
+    "population": 3936,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bruck an der Großglocknerstraße",
+    "population": 4699,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Bürmoos",
+    "population": 4899,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Dienten am Hochkönig",
+    "population": 761,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Dorfbeuern",
+    "population": 1547,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Dorfgastein",
+    "population": 1614,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Eben im Pongau",
+    "population": 2446,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Ebenau",
+    "population": 1439,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Elixhausen",
+    "population": 2963,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Elsbethen",
+    "population": 5424,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Eugendorf",
+    "population": 6937,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Faistenau",
+    "population": 3103,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Filzmoos",
+    "population": 1484,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Flachau",
+    "population": 2813,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Forstau",
+    "population": 540,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Fusch an der Großglocknerstraße",
+    "population": 719,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Fuschl am See",
+    "population": 1520,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Goldegg",
+    "population": 2533,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Golling an der Salzach",
+    "population": 4271,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Göming",
+    "population": 764,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Göriach",
+    "population": 337,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Grödig",
+    "population": 7262,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Großarl",
+    "population": 3825,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Großgmain",
+    "population": 2615,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hallein",
+    "population": 21150,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hallwang",
+    "population": 4189,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Henndorf am Wallersee",
+    "population": 4947,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hintersee",
+    "population": 443,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hof bei Salzburg",
+    "population": 3562,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hollersbach im Pinzgau",
+    "population": 1220,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hüttau",
+    "population": 1492,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Hüttschlag",
+    "population": 911,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Kaprun",
+    "population": 3177,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Kleinarl",
+    "population": 792,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Koppl",
+    "population": 3472,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Köstendorf",
+    "population": 2631,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Krimml",
+    "population": 847,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Krispl",
+    "population": 889,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Kuchl",
+    "population": 7274,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Lamprechtshausen",
+    "population": 4037,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Lend",
+    "population": 1368,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Leogang",
+    "population": 3263,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Lessach",
+    "population": 555,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Lofer",
+    "population": 2037,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Maishofen",
+    "population": 3601,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Maria Alm",
+    "population": 2197,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Mariapfarr",
+    "population": 2375,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Mattsee",
+    "population": 3263,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Mauterndorf",
+    "population": 1639,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Mittersill",
+    "population": 5380,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Mühlbach am Hochkönig",
+    "population": 1461,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Muhr",
+    "population": 510,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Neukirchen am Großvenediger",
+    "population": 2517,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Neumarkt am Wallersee",
+    "population": 6297,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Niedernsill",
+    "population": 2694,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Nußdorf am Haunsberg",
+    "population": 2383,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Oberalm",
+    "population": 4325,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Oberndorf bei Salzburg",
+    "population": 5815,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Obertrum",
+    "population": 4808,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Pfarrwerfen",
+    "population": 2292,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Piesendorf",
+    "population": 3790,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Plainfeld",
+    "population": 1237,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Puch bei Hallein",
+    "population": 4675,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Radstadt",
+    "population": 4823,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Ramingstein",
+    "population": 1059,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Rauris",
+    "population": 3044,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Rußbach am Paß Gschütt",
+    "population": 767,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Saalbach-Hinterglemm",
+    "population": 2859,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Saalfelden",
+    "population": 16700,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Salzburg",
+    "population": 153377,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Andrä im Lungau",
+    "population": 761,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Georgen bei Salzburg",
+    "population": 2954,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Gilgen",
+    "population": 3915,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Johann im Pongau",
+    "population": 10944,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Koloman",
+    "population": 1725,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Margarethen im Lungau",
+    "population": 725,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Martin am Tennengebirge",
+    "population": 1666,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Martin bei Lofer",
+    "population": 1153,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Michael im Lungau",
+    "population": 3520,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Sankt Veit im Pongau",
+    "population": 3788,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Scheffau am Tennengebirge",
+    "population": 1395,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Schleedorf",
+    "population": 1069,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Schwarzach im Pongau",
+    "population": 3515,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Seeham",
+    "population": 1939,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Seekirchen am Wallersee",
+    "population": 10764,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Straßwalchen",
+    "population": 7420,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Strobl",
+    "population": 3645,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Stuhlfelden",
+    "population": 1604,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Tamsweg",
+    "population": 5717,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Taxenbach",
+    "population": 2747,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Thalgau",
+    "population": 5931,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Thomatal",
+    "population": 333,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Tweng",
+    "population": 276,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Unken",
+    "population": 1954,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Unternberg",
+    "population": 1035,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Untertauern",
+    "population": 466,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Uttendorf",
+    "population": 2982,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Viehhofen",
+    "population": 603,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Wagrain",
+    "population": 3085,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Wald im Pinzgau",
+    "population": 1124,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Wals-Siezenheim",
+    "population": 13056,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Weißbach bei Lofer",
+    "population": 429,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Weißpriach",
+    "population": 306,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Werfen",
+    "population": 3027,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Werfenweng",
+    "population": 1012,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Zederhaus",
+    "population": 1196,
+    "bezirk": "Salzburg"
+  },
+  {
+    "name": "Zell am See",
+    "population": 9852,
+    "bezirk": "Salzburg"
+  }
+]
