@@ -3,7 +3,15 @@
 Gemeinde Kompass 360 is an iOS application that helps users explore municipalities, counties, and federal states in Austria. The app provides detailed information about each region, including descriptions, images, and geographical data.
 
 ## Features
+- **MapKit Integration**: Show municipality locations on a map.
+- **Custom API**: Built with web scrapers to fetch data.
+- **Apple WeatherKit Integration**: Display current weather for municipalities (currently disabled due to lack of paid Apple Developer account).
+- **PredictHQ API**: Fetch and display events.
+- **Image Integration**: Each municipality has an image and a coat of arms.
+- **Comprehensive Statistics and Info**: Includes postal code, population, area, mayor, and more.
+- **Filter**: Filter municipalities by federal state and/or district.
 
+## APP
 - **Home View**: Discover various municipalities in Austria with detailed information and images.
 - **Federal States View**: View a map of Austria's federal states with interactive overlays.
 - **Favorites**: Save your favorite municipalities for quick access.
