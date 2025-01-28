@@ -10,25 +10,13 @@ Gemeinde Kompass 360 is an iOS application that helps users explore municipaliti
 - **Image Integration**: Each municipality has an image and a coat of arms.
 - **Comprehensive Statistics and Info**: Includes postal code, population, area, mayor, and more.
 - **Filter**: Filter municipalities by federal state and/or district.
+- **Multi-language Support**: The app supports both English and German languages.
 
 ## APP
 - **Home View**: Discover various municipalities in Austria with detailed information and images.
 - **Federal States View**: View a map of Austria's federal states with interactive overlays.
 - **Favorites**: Save your favorite municipalities for quick access.
 - **Settings**: Customize your app experience.
-
-## Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/alexmen656/gemeinde-kompass-360.git
-    ```
-2. Open the project in Xcode:
-    ```sh
-    cd gemeinde-kompass-360
-    open gemeinde-kompass-360.xcodeproj
-    ```
-3. Build and run the project on your simulator or device.
 
 ## Usage
 
@@ -56,6 +44,20 @@ The app fetches data from a backend API. The API endpoints are defined in the `a
 - **Get counties by federal state**: `?action=counties&federal_state={federal_state_id_or_name}`
 - **Get municipalities by county**: `?action=municipalities&county={county_id_or_name}`
 
+## Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/alexmen656/gemeinde-kompass-360.git
+    ```
+2. Open the project in Xcode:
+    ```sh
+    cd gemeinde-kompass-360
+    open gemeinde-kompass-360.xcodeproj
+    ```
+3. Build and run the project on your simulator or device.
+
+   
 ## Contact
 
 For any questions or feedback, please contact Slack.
