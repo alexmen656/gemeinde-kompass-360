@@ -39,9 +39,9 @@ struct Home: View {
             VStack {
                 ScrollView {
                     HStack {
-                        Text("Entdecke Österreich")
+                        Text("Explore Austria")
                             .fontWeight(.bold)
-                            .font(.system(size: 24))
+                            .font(.system(size: 28))
                         
                         Spacer()
                         
@@ -59,6 +59,9 @@ struct Home: View {
                         }
                     }
                     .padding(.horizontal)
+                    .padding(.top, 18)
+                    .padding(.bottom, 12)
+                    
                     
                     HStack {
                         if !selectedFederalState.isEmpty {
@@ -104,7 +107,7 @@ struct Home: View {
                                 
                                 Text(item.name).fontWeight(.semibold).font(.title2).foregroundColor(.black)
                             }
-Text("\(item.name) is a village in the \(item.district) district, \(item.federalState). It has an area of \(String(format: "%.2f", item.area)) km² and a population of \(item.population).")
+                                   Text("\(item.name) is a \(item.name == "Bregenz" ? "city" : "village") in the \(item.district) district, \(item.federalState). It has an area of \(String(format: "%.2f", item.area)) km² and a population of \(item.population).")
     .padding(.bottom, 18)                   }.padding(12)
                         }
                         .background(Color.white)
@@ -135,7 +138,7 @@ struct FilterView: View {
         NavigationView {
             VStack {
                 Picker("Select Federal State", selection: $selectedFederalState) {
-                    Text("All").tag("")
+                    Text("Select Federal State").tag("")
                     ForEach(postData.map { $0.federalState }.unique(), id: \.self) { federalState in
                         Text(federalState).tag(federalState)
                     }
@@ -144,7 +147,7 @@ struct FilterView: View {
                 .padding()
                 
                 Picker("Select District", selection: $selectedDistrict) {
-                    Text("All").tag("")
+                    Text("Select District").tag("")
                     ForEach(postData.map { $0.district }.unique(), id: \.self) { district in
                         Text(district).tag(district)
                     }

@@ -1,10 +1,3 @@
-//
-//  gemeinde_kompass_360App.swift
-//  gemeinde-kompass-360
-//
-//  Created by Alex Polan on 06/11/2023.
-//
-
 import SwiftUI
 import SwiftData
 
@@ -22,4 +15,15 @@ struct gemeinde_kompass_360App: App {
 
         }
     }
+}
+
+extension String {
+  func localizeString(string: String) -> String {
+    
+      let path = Bundle.main.path(forResource: string, ofType: "lproj")
+      let bundle = Bundle(path: path!)
+      return NSLocalizedString(self, tableName: nil, bundle: bundle!,
+      value: "", comment: "")
+  }
+
 }

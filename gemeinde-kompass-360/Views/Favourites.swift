@@ -1,10 +1,3 @@
-//
-//  Favourites.swift
-//  gemeinde-kompass-360
-//
-//  Created by Alex Polan on 06/11/2023.
-//
-
 import SwiftUI
 
 struct Favourites: View {
@@ -17,7 +10,7 @@ struct Favourites: View {
                                      Text(item.name)
                                  }
                }
-               .navigationTitle("Favoriten")///FavoritenFavourites
+               .navigationTitle("Favorites")///FavoritenFavourites
                .onAppear {
                    // Laden der Favoriten beim Anzeigen der Ansicht
                    self.favoriteItems = getAllFavorites()

@@ -1,10 +1,3 @@
-//
-//  Search.swift
-//  gemeinde-kompass-360
-//
-//  Created by Alex Polan on 06/11/2023.
-//
-
 import SwiftUI
 
 struct Search: View {

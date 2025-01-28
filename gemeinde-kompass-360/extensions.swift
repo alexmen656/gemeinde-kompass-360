@@ -45,7 +45,7 @@ extension Gemeinde {
     }
 
     func getIconNameForCategory(_ categoryString: String) -> String {
-        let defaultIconName = "questionmark" // Ein Standard-Icon, falls die Kategorie nicht erkannt wird
+        let defaultIconName = "person.3.fill"//"questionmark" // Ein Standard-Icon, falls die Kategorie nicht erkannt wird
 
         guard let category = Category(rawValue: categoryString) else {
             return defaultIconName

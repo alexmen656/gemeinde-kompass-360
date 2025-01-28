@@ -3,11 +3,13 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 70;
+	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		D98091872B29DF1F00FDD8DC /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = D98091862B29DF1F00FDD8DC /* Alamofire */; };
+		D9AC37352D492A7800EF42B1 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = D9AC37332D492A7700EF42B1 /* Localizable.strings */; };
+		D9AC37382D492B1C00EF42B1 /* Localizable2.strings in Resources */ = {isa = PBXBuildFile; fileRef = D9AC37362D492B1C00EF42B1 /* Localizable2.strings */; };
 		D9B65BB62B0233E100ECECD8 /* WebService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B65BB52B0233E100ECECD8 /* WebService.swift */; };
 		D9C744432B27A3F2000DB4C1 /* extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C744422B27A3F2000DB4C1 /* extensions.swift */; };
 		D9C744452B27A5A7000DB4C1 /* NearbyPlaces.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C744442B27A5A7000DB4C1 /* NearbyPlaces.swift */; };
@@ -48,6 +50,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D9AC37342D492A7800EF42B1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		D9AC37392D492B1E00EF42B1 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable2.strings; sourceTree = "<group>"; };
 		D9B65BB52B0233E100ECECD8 /* WebService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebService.swift; sourceTree = "<group>"; };
 		D9C744422B27A3F2000DB4C1 /* extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extensions.swift; sourceTree = "<group>"; };
 		D9C744442B27A5A7000DB4C1 /* NearbyPlaces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearbyPlaces.swift; sourceTree = "<group>"; };
@@ -6040,11 +6044,6 @@
 		D9F61C9D2D482AB0003E6047 /* write.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; path = write.php; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		D9F604242D46EB16003E6047 /* de.lproj */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = de.lproj; sourceTree = "<group>"; };
-		D9F604252D46EB22003E6047 /* en.lproj */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = en.lproj; sourceTree = "<group>"; };
-/* End PBXFileSystemSynchronizedRootGroup section */
-
 /* Begin PBXFrameworksBuildPhase section */
 		D9CC91E92AF98C1F00EE1661 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
@@ -6079,6 +6078,8 @@
 				D9CC920D2AF98C2000EE1661 /* gemeinde-kompass-360UITests */,
 				D9F61C9E2D482AB0003E6047 /* api */,
 				D9CC91ED2AF98C1F00EE1661 /* Products */,
+				D9AC37332D492A7700EF42B1 /* Localizable.strings */,
+				D9AC37362D492B1C00EF42B1 /* Localizable2.strings */,
 			);
 			sourceTree = "<group>";
 		};
@@ -6108,8 +6109,6 @@
 				D9C744422B27A3F2000DB4C1 /* extensions.swift */,
 				D9C744442B27A5A7000DB4C1 /* NearbyPlaces.swift */,
 				D9F604202D46E76A003E6047 /* Bundle+Extension.swift */,
-				D9F604252D46EB22003E6047 /* en.lproj */,
-				D9F604242D46EB16003E6047 /* de.lproj */,
 			);
 			path = "gemeinde-kompass-360";
 			sourceTree = "<group>";
@@ -14332,10 +14331,6 @@
 			);
 			dependencies = (
 			);
-			fileSystemSynchronizedGroups = (
-				D9F604242D46EB16003E6047 /* de.lproj */,
-				D9F604252D46EB22003E6047 /* en.lproj */,
-			);
 			name = "gemeinde-kompass-360";
 			packageProductDependencies = (
 				D98091862B29DF1F00FDD8DC /* Alamofire */,
@@ -14435,7 +14430,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9AC37382D492B1C00EF42B1 /* Localizable2.strings in Resources */,
 				D9F604232D46E9FD003E6047 /* federal_states.geojson in Resources */,
+				D9AC37352D492A7800EF42B1 /* Localizable.strings in Resources */,
 				D9CC91F92AF98C2000EE1661 /* Preview Assets.xcassets in Resources */,
 				D9CC91F62AF98C2000EE1661 /* Assets.xcassets in Resources */,
 			);
@@ -14510,6 +14507,25 @@
 			targetProxy = D9CC920B2AF98C2000EE1661 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		D9AC37332D492A7700EF42B1 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D9AC37342D492A7800EF42B1 /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		D9AC37362D492B1C00EF42B1 /* Localizable2.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D9AC37392D492B1E00EF42B1 /* de */,
+			);
+			name = Localizable2.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		D9CC92122AF98C2000EE1661 /* Debug */ = {

@@ -8,12 +8,10 @@ struct SettingsView: View {
     var body: some View {
         NavigationView {
             Form {
-                Section(header: Text(LocalizedStringKey("Preferences"))) {
+                Section(header: Text(LocalizedStringKey("Preferences".localizeString(string: "en")))) {
                     Picker(LocalizedStringKey("Language"), selection: $selectedLanguage) {
                         Text(LocalizedStringKey("English")).tag("en")
                         Text(LocalizedStringKey("German")).tag("de")
-                        Text(LocalizedStringKey("French")).tag("fr")
-                        Text(LocalizedStringKey("Spanish")).tag("es")
                     }
                     .onChange(of: selectedLanguage) { newValue in
                         UserDefaults.standard.set(newValue, forKey: "selectedLanguage")
@@ -24,9 +22,6 @@ struct SettingsView: View {
             }
             .id(refreshID) // Refresh the view when refreshID changes
             .navigationTitle(LocalizedStringKey("Settings"))
-            .navigationBarItems(trailing: Button(LocalizedStringKey("Done")) {
-                presentationMode.wrappedValue.dismiss()
-            })
         }
     }
 }

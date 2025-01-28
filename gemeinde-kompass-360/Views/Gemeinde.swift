@@ -1,10 +1,3 @@
-//
-//  Gemeinde.swift
-//  gemeinde-kompass-360
-//
-//  Created by Alex Polan on 15/11/2023.
-//
-
 import SwiftUI
 import Foundation
 import MapKit
@@ -150,7 +143,7 @@ struct EventsView: View {
                                 Image(systemName: "calendar")
                                 Text(Gemeinde(gemeinde: gemeinde).formattedDate2(event.eventDate ?? "")).font(.subheadline)
                             }
-                            if let entities = event.entities, let firstEntity = entities.first {
+                           /* if let entities = event.entities, let firstEntity = entities.first {
                                 HStack {
                                     
                                     
@@ -165,7 +158,7 @@ struct EventsView: View {
                                         
                                     }
                                 }
-                            }
+                            }*/
                         }
                     }.padding(5)
                     
@@ -250,11 +243,12 @@ struct Gemeinde: View {
 
     private var info: [InfoItem] {
         [
-            InfoItem(id: 1, icon: "shippingbox", name: "Postleitzahl", data: gemeinde.postalCode),
+            InfoItem(id: 1, icon: "shippingbox", name: "Postal Code", data: gemeinde.postalCode),
             InfoItem(id: 2, icon: "link", name: "Homepage", data: gemeinde.homepage),
-            InfoItem(id: 3, icon: "person.text.rectangle", name: "Bürgermeister", data: gemeinde.mayor),
-            InfoItem(id: 4, icon: "mappin.and.ellipse", name: "Fläche", data: "\(gemeinde.area)km²"),
-            InfoItem(id: 5, icon: "person.3", name: "Einwohner", data: "\(gemeinde.population)"),
+            InfoItem(id: 3, icon: "person.text.rectangle", name: "Mayor", data: gemeinde.mayor),
+            InfoItem(id: 4, icon: "mappin.and.ellipse", name: "Area", data: "\(gemeinde.area)km²"),
+            InfoItem(id: 5, icon: "person.3", name: "Population", data: "\(gemeinde.population)"),
+            InfoItem(id: 6, icon: "map", name: "District", data: "\(gemeinde.district)"),
         ]
     }
     
@@ -343,7 +337,7 @@ struct Gemeinde: View {
                             .frame(height: 16)
                             .foregroundColor(isLiked ? .red : .black)
                         
-                        Text(isLiked ? "Favorisiert" : "Favorisieren")
+                        Text(isLiked ? "Favorited" : "Favorite")
                             .foregroundColor(isLiked ? .red : .black)
                             .imageScale(.large)
                             .padding()
@@ -384,42 +378,28 @@ struct Gemeinde: View {
                 }
                 
                 LazyVGrid(columns: columns2, spacing: 20) {
-                    VStack {
-                        VStack {
-                            Text("Adresse des Gemeindeamtes")
-                            Text(gemeinde.address.replacingOccurrences(of: "<br>", with: "\n"))
-                        }.padding(20)
-                    }
-                    .frame(maxWidth: .infinity)
-                    .background(Color.white)
-                    .clipShape(RoundedRectangle(cornerRadius: 20.0))
-                    .shadow(radius: 8)
-                    .padding(.leading, 15)
-                    .padding(.trailing, 15)
-                    
-                    if let wetter = currentWeather {
+
+                     if let wetter = currentWeather {
                 VStack {
-                    Text("Aktuelles Wetter")
+                    Text("Current Weather")
                         .font(.headline)
                     Text("\(wetter.currentWeather.temperature.value, specifier: "%.1f")°C")
-                        .font(.subheadline)
-                        .padding()
                 }
                 .frame(maxWidth: .infinity)
-                .background(Color.white)
-                .clipShape(RoundedRectangle(cornerRadius: 20.0))
-                .shadow(radius: 8)
-                .padding(.leading, 15)
-                .padding(.trailing, 15)
+                 .background(Color.white)
+                 .clipShape(RoundedRectangle(cornerRadius: 20.0))
+                 .shadow(radius: 8)
+                 .padding(.leading, 15)
+                 .padding(.trailing, 15)
             } else {
                 VStack {
-                    Text("Aktuelles Wetter")
-                        .font(.headline)
-                    Text("12°C Sonnig")
-                        .font(.subheadline)
-                        .padding()
+                    VStack {
+                        Text("☀️ Current Weather")
+                            .font(.headline)
+                        Text("3°C Cloudy")
+                    }.padding(20)
                 }
-                .frame(maxWidth: .infinity)
+               .frame(maxWidth: .infinity)
                 .background(Color.white)
                 .clipShape(RoundedRectangle(cornerRadius: 20.0))
                 .shadow(radius: 8)
@@ -432,10 +412,12 @@ struct Gemeinde: View {
                 }
             }
 
+
                     VStack {
                         VStack {
-                            Text("Kontakt")
-                            Text("Email:  \(gemeinde.email)\nTelefon: \(gemeinde.phone)")
+                            Text("Contact")
+                                .font(.headline)
+                            Text("Email:  \(gemeinde.email)\nPhone: \(gemeinde.phone)")
                         }.padding(20)
                     }.frame(maxWidth: .infinity)
                         .background(Color.white)
@@ -443,9 +425,23 @@ struct Gemeinde: View {
                         .shadow(radius: 8)
                         .padding(.leading, 15)
                         .padding(.trailing, 15)
+
+                        VStack {
+                        VStack {
+                            Text("Address of the Municipal Office")
+                                .font(.headline)
+                            Text(gemeinde.address.replacingOccurrences(of: "<br>", with: "\n"))
+                        }.padding(20)
+                    }
+                    .frame(maxWidth: .infinity)
+                    .background(Color.white)
+                    .clipShape(RoundedRectangle(cornerRadius: 20.0))
+                    .shadow(radius: 8)
+                    .padding(.leading, 15)
+                    .padding(.trailing, 15)
+                    .padding(.bottom, 15)
                 }
                 
-                // Add the map view here
                 Map(coordinateRegion: $region, annotationItems: [gemeinde]) { item in
                     MapMarker(coordinate: CLLocationCoordinate2D(latitude: item.latitude, longitude: item.longitude), tint: .red)
                 }
@@ -453,10 +449,16 @@ struct Gemeinde: View {
                 .cornerRadius(20)
                 .padding(.leading, 15)
                 .padding(.trailing, 15)
+                .onTapGesture {
+                    showFullScreenMap.toggle()
+                }
+                .sheet(isPresented: $showFullScreenMap) {
+                    FullScreenMapView(region: $region, gemeinde: gemeinde)
+                }
                 
                 if events.count > 0 {
                     VStack {
-                        Section(header: Text("Veranstaltungen").font(.title)) {
+                        Section(header: Text("Events").font(.title)) {
                             ForEach(events.prefix(3)) { event in
                                 HStack {
                                     ZStack {
@@ -478,7 +480,7 @@ struct Gemeinde: View {
                                                 Image(systemName: "calendar")
                                                 Text(formattedDate2(event.eventDate ?? "")).font(.subheadline)
                                             }
-                                            if let entities = event.entities, let firstEntity = entities.first {
+                                           /* if let entities = event.entities, let firstEntity = entities.first {
                                                 HStack {
                                                     Image(systemName: "mappin.and.ellipse")
                                                     if let city = extractCity(from: firstEntity.formattedAddress ?? "") {
@@ -487,7 +489,7 @@ struct Gemeinde: View {
                                                         Text("Nicht bekannt").font(.subheadline)
                                                     }
                                                 }
-                                            }
+                                            }*/
                                         }
                                     }.padding(5)
                                 }.frame(maxWidth: .infinity, alignment: .leading)
@@ -500,7 +502,7 @@ struct Gemeinde: View {
                             }
                             if(events.count > 3) {
                                 NavigationLink(destination: EventsView(events: events, gemeinde: gemeinde)) {
-                                    Text("Alle Ansehen")
+                                    Text("View All")
                                 }
                             }
                         }
@@ -556,20 +558,6 @@ struct Gemeinde: View {
                             }
                         }
                     }.padding(.top, 30)
-                }
-
-                Map(coordinateRegion: $region, annotationItems: [gemeinde]) { item in
-                    MapMarker(coordinate: CLLocationCoordinate2D(latitude: item.latitude, longitude: item.longitude), tint: .red)
-                }
-                .frame(height: 300)
-                .cornerRadius(20)
-                .padding(.leading, 15)
-                .padding(.trailing, 15)
-                .onTapGesture {
-                    showFullScreenMap.toggle()
-                }
-                .sheet(isPresented: $showFullScreenMap) {
-                    FullScreenMapView(region: $region, gemeinde: gemeinde)
                 }
             }
             .padding(.bottom, 100)
@@ -640,7 +628,7 @@ struct Gemeinde: View {
     func searchForEvents(pc: String, pn: String) {
         findCoordinates(forLocation: pn, andPostalCode: pc) { (coordinates, error) in
             if let coordinates = coordinates {
-                let accessToken = "JnwnhjustItMpswsF_1B6jQe1WhQEIyCMyKHPGYN"
+                let accessToken = "llUgHchi-ktRvyKmcrBcarwhiX04q7CY_Fl6LZqZ" // its not a secret :)
                 let apiUrl = "https://api.predicthq.com/v1/events/"
                 let queryParameters: [String: Any] = ["q": "", "country": "AT", "location_around.origin": "\(coordinates.latitude),\(coordinates.longitude)", "location_around.offset": "40km"]
                 let headers: HTTPHeaders = [
@@ -697,7 +685,7 @@ struct Gemeinde: View {
         homepage: "deutsch-jahrndorf.at",
         adresse: "Biergasse 94\n4567 Kackendorf",
         telefon: "+43 35555444",
-        email: "penis@penisshop.de",
+        email: "",
         art: "Großstadt",
         flaeche: 300.87,
         einwohner: 556
