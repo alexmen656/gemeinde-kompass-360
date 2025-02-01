@@ -48,12 +48,12 @@ The app fetches data from a backend API. The API endpoints are defined in the `a
 - **Get municipalities by county**: `?action=municipalities&county={county_id_or_name}`
 
 ## Screenshots
-![Screenshot1](screenshots/1.png)
-![Screenshot2](screenshots/2.png)
-![Screenshot3](screenshots/3.png)
-![Screenshot4](screenshots/4.png)
-![Screenshot5](screenshots/5.png)
-
+| ![Screenshot1](screenshots/1.PNG) | ![Screenshot2](screenshots/2.PNG) | ![Screenshot3](screenshots/3.PNG) |
+|---|---|---|
+| ![Screenshot4](screenshots/4.PNG) | ![Screenshot5](screenshots/4e.PNG) | ![Screenshot6](screenshots/5.PNG) |
+|---|---|---|
+| ![Screenshot7](screenshots/6.PNG) | ![Screenshot8](screenshots/7.PNG) | ![Screenshot9](screenshots/8.PNG) |
+|---|---|---|
 ## Installation
 
 1. Clone the repository:
